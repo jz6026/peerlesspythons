@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+plotly
+requests
+beautifulsoup4
+selenium
+transformers
+torch
+scikit-learn
+asyncpraw
+sqlalchemy
+pymysql
+python-dotenv
+flask
