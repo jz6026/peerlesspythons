@@ -13,3 +13,4 @@ sqlalchemy
 pymysql
 python-dotenv
 flask
+pytest
