@@ -42,7 +42,7 @@ COIN_METADATA = {
 class Settings:
     lookback_days: int = 30
     rolling_window: int = 24
-    save_to_database: bool = False
+    save_to_s3: bool = False
 
     news_api_key: str | None = None
 
@@ -50,13 +50,12 @@ class Settings:
     reddit_client_secret: str | None = None
     reddit_user_agent: str | None = None
 
-    binance_api_key: str | None = None
-    binance_secret_key: str | None = None
+    anthropic_api_key: str | None = None
 
-    mysql_host: str | None = None
-    mysql_user: str | None = None
-    mysql_password: str | None = None
-    mysql_database: str | None = None
+    aws_access_key_id: str | None = None
+    aws_secret_access_key: str | None = None
+    aws_region: str = "us-east-1"
+    s3_bucket_name: str | None = None
 
     coins: list[str] = field(default_factory=lambda: list(COINS))
 
@@ -67,10 +66,9 @@ def get_settings() -> Settings:
         reddit_client_id=os.getenv("REDDIT_CLIENT_ID"),
         reddit_client_secret=os.getenv("REDDIT_CLIENT_SECRET"),
         reddit_user_agent=os.getenv("REDDIT_USER_AGENT"),
-        binance_api_key=os.getenv("BINANCE_API_KEY"),
-        binance_secret_key=os.getenv("BINANCE_SECRET_KEY"),
-        mysql_host=os.getenv("MYSQL_HOST"),
-        mysql_user=os.getenv("MYSQL_USER"),
-        mysql_password=os.getenv("MYSQL_PASSWORD"),
-        mysql_database=os.getenv("MYSQL_DATABASE"),
+        anthropic_api_key=os.getenv("ANTHROPIC_API_KEY"),
+        aws_access_key_id=os.getenv("AWS_ACCESS_KEY_ID"),
+        aws_secret_access_key=os.getenv("AWS_SECRET_ACCESS_KEY"),
+        aws_region=os.getenv("AWS_REGION", "us-east-1"),
+        s3_bucket_name=os.getenv("S3_BUCKET_NAME"),
     )

@@ -9,8 +9,7 @@ transformers
 torch
 scikit-learn
 asyncpraw
-sqlalchemy
-pymysql
+boto3
 python-dotenv
 flask
 pytest

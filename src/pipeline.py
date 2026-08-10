@@ -1,12 +1,14 @@
+from typing import Any
+
 import asyncpraw
 import pandas as pd
-from sqlalchemy.engine import Engine
 
 from src.aggregate import aggregate_hourly_sentiment, merge_market_and_sentiment
 from src.config import COIN_METADATA, Settings
 from src.market_data import fetch_binance_data
 from src.reddit_client import fetch_reddit_posts
 from src.sentiment import add_sentiment_scores, load_sentiment_pipeline
+from src.storage import upload_dataframe
 
 EMPTY_HOURLY_SENTIMENT_COLUMNS = ["hour", "average_sentiment", "mentions", "average_confidence"]
 
@@ -18,7 +20,7 @@ async def run_pipeline(
     subreddit_name: str = "CryptoCurrency",
     limit: int = 100,
     market_limit: int = 100,
-    engine: Engine | None = None,
+    s3_client: Any | None = None,
 ) -> pd.DataFrame:
     metadata = COIN_METADATA[coin_key]
 
@@ -44,7 +46,7 @@ async def run_pipeline(
 
     combined = merge_market_and_sentiment(market_data, hourly_sentiment)
 
-    if engine is not None:
-        combined.to_sql(f"{coin_key}_combined", engine, if_exists="append", index=False)
+    if s3_client is not None and settings.s3_bucket_name:
+        upload_dataframe(s3_client, settings.s3_bucket_name, coin_key, combined)
 
     return combined
