@@ -1,7 +1,11 @@
 from functools import lru_cache
 from typing import Callable
+import os
 
 import pandas as pd
+from dotenv import load_dotenv
+
+load_dotenv()
 
 SENTIMENT_MAP = {
     "positive": 1,
@@ -14,7 +18,12 @@ SENTIMENT_MAP = {
 def load_sentiment_pipeline(model_name: str = "ProsusAI/finbert") -> Callable:
     from transformers import pipeline as hf_pipeline
 
-    return hf_pipeline("sentiment-analysis", model=model_name)
+    return hf_pipeline(
+    "sentiment-analysis",
+    model=model_name,
+    token=os.getenv("HF_TOKEN"),
+)
+
 
 
 def score_text(sentiment_pipeline: Callable, text: str) -> tuple[str | None, float | None]:

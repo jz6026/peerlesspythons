@@ -1,0 +1,970 @@
+post_id,search_term,title,body,num_comments,created_at,reddit_url,external_url,text,sentiment,confidence,sentiment_score,bullish_sentiment,bullish_score,bullish_reasoning,bearish_sentiment,bearish_score,bearish_reasoning,neutral_sentiment,neutral_score,neutral_reasoning,persona_divergence
+1vl04mo,bitcoin,"5 sales since May 1st, btw.",,32,8/10/26 22:56,https://reddit.com/r/CryptoCurrency/comments/1vl04mo/5_sales_since_may_1st_btw/,https://i.redd.it/xr9y9yiznmih1.jpeg,"5 sales since May 1st, btw. ",neutral,0.855346203,0,positive,1,"Five sales since May 1st shows consistent, ongoing demand and market activity, which is a healthy sign of sustained interest that bulls like me see as a foundation for future growth.",negative,-1,"Only five sales since May 1st signals extremely weak demand and poor liquidity, a clear red flag for this asset's health.",negative,-1,"The post cites a factual data point of only 5 sales since May 1st, which suggests very low transaction activity or demand, indicating a negative signal about the asset's market interest.",2
+1vkzmyc,bitcoin,What do crypto influencers talk about these days?,"Back in 2021 I used to watch Crypto Banter and other Crypto shows I cant remember. The only other one I remember is Alex Becker who was at least funny and self deprecating about the fact he was probably gonna lose money.
+
+Ran Neur and Crypto Banter was my main go to guy for financial advice on crypto in those heady 2021 days and actually he did predict some alt coin rises. Of course, a lot of the predictions didnt come off, not least about the start decline crypto took in 2021 and from which, if everyone is honest, it has never really recovered.
+
+Over the last few years, Bitcoin has risen and fallen but is doing steady. but every other coin has just died, fading away or is nowhere. near their ALT. There is no movement, no new narratives, no new interest no alt coins rising, certainly none with any interesting or plausible use case.
+
+So to save myself from actually watching these shows.... what do they talk about? They cannot be shilling coins, because they must know that whatever coin it is will be down within a week and will die off. Does anyone actually watch these shows anymore? Why?",28,8/10/26 22:35,https://reddit.com/r/CryptoCurrency/comments/1vkzmyc/what_do_crypto_influencers_talk_about_these_days/,https://www.reddit.com/r/CryptoCurrency/comments/1vkzmyc/what_do_crypto_influencers_talk_about_these_days/,"What do crypto influencers talk about these days? Back in 2021 I used to watch Crypto Banter and other Crypto shows I cant remember. The only other one I remember is Alex Becker who was at least funny and self deprecating about the fact he was probably gonna lose money.
+
+Ran Neur and Crypto Banter was my main go to guy for financial advice on crypto in those heady 2021 days and actually he did predict some alt coin rises. Of course, a lot of the predictions didnt come off, not least about the start decline crypto took in 2021 and from which, if everyone is honest, it has never really recovered.
+
+Over the last few years, Bitcoin has risen and fallen but is doing steady. but every other coin has just died, fading away or is nowhere. near their ALT. There is no movement, no new narratives, no new interest no alt coins rising, certainly none with any interesting or plausible use case.
+
+So to save myself from actually watching these shows.... what do they talk about? They cannot be shilling coins, because they must know that whatever coin it is will be down within a week and will die off. Does anyone actually watch these shows anymore? Why?",neutral,0.685926318,0,neutral,0,"While the post is nostalgic and questioning about crypto influencer content, it acknowledges Bitcoin's steady performance as a bright spot even amid frustration over altcoins' lack of movement, making it more of a reflective inquiry than an outright bearish take.",negative,-1,"The post underscores that altcoins have collapsed and never recovered, that influencer predictions largely failed, and that the market lacks any fresh narratives or credible use cases, all of which confirm the persistent risks and decay in crypto beyond BTC.",negative,-1,"The post argues that altcoins have broadly failed to recover and lack new narratives or use cases, portraying the crypto influencer space and altcoin market as stagnant and untrustworthy.",1
+1vkvxnu,bitcoin,"Strategy dumps yet more Bitcoin, latest $109 million sell-off comes amid a seven-week buying hiatus","Strategy just sold Bitcoin—again. The world’s foremost digital asset hoarder announced on Monday that it unloaded 1,690 Bitcoin, or nearly $109 million, using the proceeds to buy back one of its preferred-stock products rather than expanding its treasury.
+
+ The sale comes seven weeks after Strategy made its last purchase, according to the company’s catalog of crypto transactions. After the announcement, Strategy’s shares fell 1.5% at market open but quickly rebounded to $100. Bitcoin’s price briefly dropped 1% before climbing back to $64,700, according to CoinGecko. 
+
+Monday’s sale marks the second time this month that Strategy has sold Bitcoin. On Aug. 3, the company sold roughly $105 million worth of the cryptocurrency. Since announcing in late June that it could sell up to $1.25 billion in Bitcoin to build its cash reserves, Strategy has now sold the asset on four separate occasions.   
+  
+The sales mark a sharp shift for a company whose strategy has long centered on accumulating—not selling—Bitcoin. Michael Saylor, Strategy’s executive chairman, began adding the cryptocurrency to the balance sheet of his cybersecurity firm, then known as MicroStrategy, in 2020. The company’s holdings have since grown to roughly $54 billion, which represents about 4% of the total Bitcoin supply, according to the company’s own data.
+
+  
+Read more \[paywall removed for Redditors\]: [https://fortune.com/2026/08/10/strategy-bitcoin-109-million-sell-off-seven-week-buying-hiatus/?utm\_source=reddit/](https://fortune.com/2026/08/10/strategy-bitcoin-109-million-sell-off-seven-week-buying-hiatus/?utm_source=reddit/)",50,8/10/26 20:12,https://reddit.com/r/CryptoCurrency/comments/1vkvxnu/strategy_dumps_yet_more_bitcoin_latest_109/,https://fortune.com/2026/08/10/strategy-bitcoin-109-million-sell-off-seven-week-buying-hiatus/?utm_source=reddit/,"Strategy dumps yet more Bitcoin, latest $109 million sell-off comes amid a seven-week buying hiatus Strategy just sold Bitcoin—again. The world’s foremost digital asset hoarder announced on Monday that it unloaded 1,690 Bitcoin, or nearly $109 million, using the proceeds to buy back one of its preferred-stock products rather than expanding its treasury.
+
+ The sale comes seven weeks after Strategy made its last purchase, according to the company’s catalog of crypto transactions. After the announcement, Strategy’s shares fell 1.5% at market open but quickly rebounded to $100. Bitcoin’s price briefly dropped 1% before climbing back to $64,700, according to CoinGecko. 
+
+Monday’s sale marks the second time this month that Strategy has sold Bitcoin. On Aug. 3, the company sold roughly $105 million worth of the cryptocurrency. Since announcing in late June that it could sell up to $1.25 billion in Bitcoin to build its cash reserves, Strategy has now sold the asset on four separate occasions.   
+  
+The sales mark a sharp shift for a company whose strategy has long centered on accumulating—not selling—Bitcoin. Michael Saylor, Strategy’s executive chairman, began adding the cryptocurrency to the balance sheet of his cybersecurity firm, then known as MicroStrategy, in 2020. The company’s holdings have since grown to roughly $54 billion, which represents about 4% of the total Bitcoin supply, according to the company’s own data.
+
+  
+Read more \[paywall removed for Redditors\]: [https://fortune.com/2026/08/10/strategy-bitcoin-109-million-sell-off-seven-week-buying-hiatus/?utm\_source=reddit/](https://fortune.com/2026/08/10/strategy-bitcoin-109-million-sell-off-seven-week-buying-hiatus/?utm_source=reddit/)",neutral,0.773927212,0,neutral,0,"While a Bitcoin sale by Strategy sounds alarming at first glance, the sale was a small, strategic move to fund a preferred-stock buyback rather than a loss of confidence, and both BTC and MSTR price quickly rebounded, showing the market shrugged it off—so it's more of a non-event than a bearish signal for the broader thesis.",negative,-1,Strategy repeatedly dumping Bitcoin instead of accumulating signals waning conviction from the market's biggest bull and is a red flag for future demand.,negative,-1,"The post reports Strategy selling Bitcoin repeatedly to fund stock buybacks rather than accumulating it as before, signaling a shift away from its core accumulation strategy which is a bearish development for market sentiment.",1
+1vkvr8f,bitcoin,MSTR now has less Bitcoin per share than before issuing any STRC and owe 1.2 Billion forever.,"Truly an IPhone moment. It does not matter what Bitcoins CAGR is going forward, issuing STRC is already a net loss for shareholders on a Bitcoin per share basis. STRC IPO’d on 7/29/2025. Someone tell the MSTR mods, I’m banned.
+
+Source: www.strategy.com",56,8/10/26 20:06,https://reddit.com/r/CryptoCurrency/comments/1vkvr8f/mstr_now_has_less_bitcoin_per_share_than_before/,https://www.reddit.com/r/CryptoCurrency/comments/1vkvr8f/mstr_now_has_less_bitcoin_per_share_than_before/,"MSTR now has less Bitcoin per share than before issuing any STRC and owe 1.2 Billion forever. Truly an IPhone moment. It does not matter what Bitcoins CAGR is going forward, issuing STRC is already a net loss for shareholders on a Bitcoin per share basis. STRC IPO’d on 7/29/2025. Someone tell the MSTR mods, I’m banned.
+
+Source: www.strategy.com",neutral,0.781906366,0,negative,-1,"Even from a bullish Bitcoin standpoint, this post highlights a genuine structural problem with MSTR's STRC issuance diluting Bitcoin-per-share value and adding perpetual debt obligations, which is a legitimate red flag for shareholders regardless of Bitcoin's price trajectory.",negative,-1,"This confirms my suspicion that MSTR's leveraged Bitcoin-buying scheme is diluting shareholders and saddling the company with perpetual debt obligations, a clear red flag for anyone holding the stock as a BTC proxy.",negative,-1,"The post presents a factual claim that MSTR's Bitcoin-per-share metric has declined and that issuing STRC created a perpetual $1.2B obligation, framing the move as a net loss for shareholders, which is a negative assessment of the company's capital strategy.",0
+1vkp62h,bitcoin,Found a Ballet Crypto card in my late brothers belongings,"As per the title. I am absolutely clueless about this stuff and even what it is really beyond the very basics. I've downloaded the app and seem to be able to see what is on the card. Is it worth holding onto or should I just bin it? I assume the amount it's worth in GBP is £9?
+
+https://preview.redd.it/m4phtj5dnkih1.jpg?width=1170&format=pjpg&auto=webp&s=0d8340d0c2bc39c68d712c07ec6babd3dc0cac30
+
+",3,8/10/26 16:09,https://reddit.com/r/CryptoCurrency/comments/1vkp62h/found_a_ballet_crypto_card_in_my_late_brothers/,https://www.reddit.com/r/CryptoCurrency/comments/1vkp62h/found_a_ballet_crypto_card_in_my_late_brothers/,"Found a Ballet Crypto card in my late brothers belongings As per the title. I am absolutely clueless about this stuff and even what it is really beyond the very basics. I've downloaded the app and seem to be able to see what is on the card. Is it worth holding onto or should I just bin it? I assume the amount it's worth in GBP is £9?
+
+https://preview.redd.it/m4phtj5dnkih1.jpg?width=1170&format=pjpg&auto=webp&s=0d8340d0c2bc39c68d712c07ec6babd3dc0cac30
+
+",neutral,0.937451839,0,neutral,0,"This is a personal inquiry about handling a found crypto asset rather than commentary on market conditions, so it doesn't reflect broader bullish or bearish sentiment, though it's a nice reminder that even small crypto holdings have real value worth preserving.",negative,-1,"This post highlights how trivial and confusing crypto holdings can be for ordinary people, with a paltry £9 balance underscoring how little practical value or accessibility these assets actually have outside speculative hype.",neutral,0,"The post is a personal, factual inquiry about handling a found crypto asset with no evaluative claims about the cryptocurrency's value or prospects.",1
+1vklju6,bitcoin,Buy high Sell Low,,77,8/10/26 13:55,https://reddit.com/r/CryptoCurrency/comments/1vklju6/buy_high_sell_low/,https://i.redd.it/e1h008vbzjih1.png,Buy high Sell Low ,neutral,0.905858457,0,neutral,0,"The post is just a short ironic quip about poor trading timing rather than actual news, but it can be seen as a lighthearted reminder that emotional trading is common, and once the market stabilizes and traders learn from these mistakes, it could actually pave the way for more disciplined and ultimately bullish behavior.",negative,-1,"The phrase 'Buy high Sell Low' mocks the classic losing trading pattern, underscoring how retail investors keep getting rekt chasing pumps and panic-selling dumps, a clear red flag for market irrationality and poor risk management.",negative,-1,"The phrase ""Buy high Sell Low"" describes a poor, loss-generating trading pattern, and contains no factual or fundamental information to justify a neutral or positive classification.",1
+1vkedk5,bitcoin,Only bitcoin? Or mix?,"Hey,
+
+Until this day I only invested in bitcoin when it comes to crypto - I do have some ETH but let’s say 98% BTC
+
+I have another 3,000$ I’d like to invest but this time I’m considering investing 50% in BTC and rest in Sol / ETH and I wanted to know what you guys think 
+
+Basically I consider other coins as shit coins that doesn’t solve any problem as BTC does but I became more open minded and I feel like I might be missing something",39,8/10/26 7:48,https://reddit.com/r/CryptoCurrency/comments/1vkedk5/only_bitcoin_or_mix/,https://www.reddit.com/r/CryptoCurrency/comments/1vkedk5/only_bitcoin_or_mix/,"Only bitcoin? Or mix? Hey,
+
+Until this day I only invested in bitcoin when it comes to crypto - I do have some ETH but let’s say 98% BTC
+
+I have another 3,000$ I’d like to invest but this time I’m considering investing 50% in BTC and rest in Sol / ETH and I wanted to know what you guys think 
+
+Basically I consider other coins as shit coins that doesn’t solve any problem as BTC does but I became more open minded and I feel like I might be missing something",neutral,0.896888793,0,positive,1,"The poster is actively looking to diversify and increase their crypto investment, showing growing confidence and openness to the market beyond just BTC, which reflects bullish engagement overall.",negative,-1,"This reads as another retail investor chasing altcoin diversification without solid conviction, which smells like risky speculative FOMO rather than a sound investment thesis.",neutral,0,"The post is a factual, unbiased inquiry about portfolio allocation among BTC, ETH, and SOL without making any price predictions or hype/fear claims.",2
+1vkb7dv,bitcoin,"8 Hours, 2 Blocks, 0 Survivors: The Brutal Collapse of Bitcoin's BIP-110 Mutiny.",,30,8/10/26 4:45,https://reddit.com/r/CryptoCurrency/comments/1vkb7dv/8_hours_2_blocks_0_survivors_the_brutal_collapse/,https://inbitcoinwetrust.substack.com/p/8-hours-2-blocks-0-survivors-the,"8 Hours, 2 Blocks, 0 Survivors: The Brutal Collapse of Bitcoin's BIP-110 Mutiny. ",neutral,0.708880246,0,positive,1,"While framed dramatically, this shows Bitcoin's governance process working as intended—a contentious proposal was quickly rejected by the network, proving the system's resilience and decentralized consensus mechanisms remain strong.",negative,-1,"A failed proposal collapsing in just 8 hours after only 2 blocks screams governance dysfunction and reveals how fragile consensus really is in Bitcoin's ecosystem, another red flag for anyone still holding out hope for smooth protocol upgrades.",negative,-1,"The post factually describes the rapid and near-total failure of the BIP-110 proposal (only 2 blocks signaling over 8 hours), indicating a lack of miner/community support and an unsuccessful attempt at this protocol change.",2
+1vjo8lw,bitcoin,Could have made 120k,"I keep thinking about the Bitcoin opportunity I completely missed, and honestly it hurts
+
+This has been eating at me lately and I’m wondering if anyone else has had a similar experience.
+
+When I was around 20, I received an inheritance of about $10k. This was in 2020.
+
+At the time, I had no idea what I wanted to study, I hated the idea of working a normal job, and I desperately wanted to leave my hometown and figure my life out. So I did what I thought I was supposed to do: I spent the money on living expenses, moved around, worked shitty jobs, paid rent, tried to figure out college/career stuff, etc.
+
+And then I look at Bitcoin’s price history and realize that, purely in hindsight, I had this completely ridiculous alternative sitting right in front of me.
+
+I could have put that $10k into Bitcoin, gone back to my childhood bedroom, done absolutely nothing, and potentially ended up with six figures.
+
+Instead, I spent the last five-ish years working, paying rent, trying different things, and struggling to get ahead financially. And I still haven’t really “broken through.”
+
+That’s the part that messes with me.
+
+I’m also neurodivergent (autistic + ADHD), and traditional employment has been particularly difficult for me. Maintaining a conventional career isn’t something I’ve found easy or sustainable. So when I look back, there’s this horrible feeling of:
+
+I spent years trying to force myself into a system that doesn’t really work for me, when there was apparently a path where I could have invested some capital and bought myself years of freedom.
+
+Obviously, I know this is hindsight. I didn’t know Bitcoin would do what it did. I probably wouldn’t have held through every crash anyway. And I understand that the “I would have just held until $100k+” calculation is fantasy to some extent.
+
+But emotionally, it’s still brutal.
+
+I keep thinking about the alternate version of my life where 20-year-old me just bought Bitcoin and stayed in that bedroom instead of spending the next five years struggling to make rent.
+
+I’m curious if anyone here has a similar story — not necessarily Bitcoin specifically, but missing an opportunity that, in hindsight, could have completely changed your life.
+
+How did you make peace with it and stop obsessing over the alternate timeline?
+
+Because right now I’m mostly trying to remind myself that missing one opportunity doesn’t mean I’ve missed every opportunity that will ever exist.",60,8/9/26 12:08,https://reddit.com/r/CryptoCurrency/comments/1vjo8lw/could_have_made_120k/,https://www.reddit.com/r/CryptoCurrency/comments/1vjo8lw/could_have_made_120k/,"Could have made 120k I keep thinking about the Bitcoin opportunity I completely missed, and honestly it hurts
+
+This has been eating at me lately and I’m wondering if anyone else has had a similar experience.
+
+When I was around 20, I received an inheritance of about $10k. This was in 2020.
+
+At the time, I had no idea what I wanted to study, I hated the idea of working a normal job, and I desperately wanted to leave my hometown and figure my life out. So I did what I thought I was supposed to do: I spent the money on living expenses, moved around, worked shitty jobs, paid rent, tried to figure out college/career stuff, etc.
+
+And then I look at Bitcoin’s price history and realize that, purely in hindsight, I had this completely ridiculous alternative sitting right in front of me.
+
+I could have put that $10k into Bitcoin, gone back to my childhood bedroom, done absolutely nothing, and potentially ended up with six figures.
+
+Instead, I spent the last five-ish years working, paying rent, trying different things, and struggling to get ahead financially. And I still haven’t really “broken through.”
+
+That’s the part that messes with me.
+
+I’m also neurodivergent (autistic + ADHD), and traditional employment has been particularly difficult for me. Maintaining a conventional career isn’t something I’ve found easy or sustainable. So when I look back, there’s this horrible feeling of:
+
+I spent years trying to force myself into a system that doesn’t really work for me, when there was apparently a path where I could have invested some capital and bought myself years of freedom.
+
+Obviously, I know this is hindsight. I didn’t know Bitcoin would do what it did. I probably wouldn’t have held through every crash anyway. And I understand that the “I would have just held until $100k+” calculation is fantasy to some extent.
+
+But emotionally, it’s still brutal.
+
+I keep thinking about the alternate version of my life where 20-year-old me just bought Bitcoin and stayed in that bedroom instead of spending the next five years struggling to make rent.
+
+I’m curious if anyone here has a similar story — not necessarily Bitcoin specifically, but missing an opportunity that, in hindsight, could have completely changed your life.
+
+How did you make peace with it and stop obsessing over the alternate timeline?
+
+Because right now I’m mostly trying to remind myself that missing one opportunity doesn’t mean I’ve missed every opportunity that will ever exist.",neutral,0.848251939,0,positive,1,"Although the post is framed with regret, it actually underscores Bitcoin's massive historical returns (10k to potentially 120k), which reinforces bullish confidence in the asset's long-term upside rather than reflecting negatively on the market itself.",negative,-1,"This post is really just retroactive survivorship-bias hype dressed up as regret—it glorifies a single lucky outcome while ignoring the very real chance of getting shaken out or wiped out in the many crashes along the way, which reinforces the risky, speculative nature of the asset rather than any genuine bullish fundamentals.",neutral,0,"The post is a personal, retrospective reflection on a missed investment opportunity and does not present new factual information or a directional claim about Bitcoin's future prospects.",2
+1vjn2p9,bitcoin,"Controversial Bitcoin fork BIP-110 mines two blocks, then stops",,54,8/9/26 11:05,https://reddit.com/r/CryptoCurrency/comments/1vjn2p9/controversial_bitcoin_fork_bip110_mines_two/,https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops,"Controversial Bitcoin fork BIP-110 mines two blocks, then stops ",neutral,0.89258498,0,neutral,0,"This reads as an early, low-adoption technical experiment rather than clear good or bad news, though the fact that it stopped after just two blocks shows limited traction so far and isn't something to get bullish about yet.",negative,-1,"A controversial fork that mines only two blocks before stalling reeks of failed developer coordination and weak network support, another red flag for Bitcoin's fragile consensus stability.",neutral,0,This is a factual report about a technical event (a fork/proposal mining two blocks then halting) without any evaluative language indicating positive or negative implications for price or adoption.,1
+1vj6bhn,bitcoin,BIP 110 final. What are your thoughts?,,41,8/8/26 20:33,https://reddit.com/r/CryptoCurrency/comments/1vj6bhn/bip_110_final_what_are_your_thoughts/,https://i.redd.it/089cf4jno7ih1.jpeg,BIP 110 final. What are your thoughts? ,neutral,0.921563566,0,positive,1,"A finalized BIP signals concrete protocol progress and consensus-building, which is bullish for Bitcoin's long-term development and investor confidence.",negative,-1,"Any last-minute BIP push this close to finalization smells like rushed consensus-building, and history shows contentious Bitcoin proposals like this tend to fracture the community and introduce uncertainty that markets hate.",neutral,0,"The post merely asks for others' opinions on BIP 110 without presenting any factual details, data, or analysis of its own, so there is no directional sentiment expressed.",2
+1viwozm,bitcoin,What's Michael Saylor's biggest contribution to Bitcoin?,"Most people know him for buying billions of dollars worth of BTC, but do you think that's his biggest contribution?
+
+Was it convincing public companies, changing the narrative around Bitcoin, educating people, or something else entirely?",89,8/8/26 13:56,https://reddit.com/r/CryptoCurrency/comments/1viwozm/whats_michael_saylors_biggest_contribution_to/,https://www.reddit.com/r/CryptoCurrency/comments/1viwozm/whats_michael_saylors_biggest_contribution_to/,"What's Michael Saylor's biggest contribution to Bitcoin? Most people know him for buying billions of dollars worth of BTC, but do you think that's his biggest contribution?
+
+Was it convincing public companies, changing the narrative around Bitcoin, educating people, or something else entirely?",neutral,0.909075439,0,positive,1,"The post celebrates Michael Saylor's outsized influence on Bitcoin adoption and narrative-shaping, which reinforces bullish confidence in institutional legitimacy and long-term demand.",negative,-1,"This post glorifies Saylor's massive corporate BTC accumulation strategy, which is exactly the kind of leveraged, hype-driven buying that creates systemic risk and overreliance on a single whale-like buyer propping up sentiment.",neutral,0,The post simply poses an open-ended question about Michael Saylor's contributions to Bitcoin without presenting new factual data or a directional stance on price or value.,2
+1viwbeu,bitcoin,Generating electricity using bitcoin?,,5,8/8/26 13:40,https://reddit.com/r/CryptoCurrency/comments/1viwbeu/generating_electricity_using_bitcoin/,/r/Bitcoin/comments/1vipw0r/generating_electricity_using_bitcoin/,Generating electricity using bitcoin? ,neutral,0.932622373,0,positive,1,"This suggests innovative energy solutions integrating with Bitcoin mining, which could boost efficiency and adoption, signaling a bullish development for the ecosystem.",negative,-1,"This sounds like another energy-intensive gimmick that just underscores how wasteful and environmentally reckless Bitcoin mining remains, likely inviting more regulatory scrutiny rather than solving any real problem.",neutral,0,"The post merely poses a question about generating electricity using bitcoin without providing factual details, price data, or clear directional claims, so there is no substantive content to assess as positive or negative.",2
+1viqnib,bitcoin,"Bitcoin's Block 961,632 Showdown: Civil War or Phantom Menace?","**Block 961,632 is here.**
+
+A rogue minority. A line of code. An ultimatum to the Bitcoin network.
+
+**Civil war… or a phantom menace?**",0,8/8/26 8:34,https://reddit.com/r/CryptoCurrency/comments/1viqnib/bitcoins_block_961632_showdown_civil_war_or/,https://inbitcoinwetrust.substack.com/p/bitcoins-block-961632-showdown-civil,"Bitcoin's Block 961,632 Showdown: Civil War or Phantom Menace? **Block 961,632 is here.**
+
+A rogue minority. A line of code. An ultimatum to the Bitcoin network.
+
+**Civil war… or a phantom menace?**",neutral,0.718667507,0,neutral,0,"This reads like dramatic clickbait about a coding dispute rather than concrete negative fundamentals, so while the 'civil war' framing raises some risk flags, it's likely more noise than substance and Bitcoin has weathered similar debates before.",negative,-1,"The dramatic 'civil war' framing around a contentious block signals a real risk of chain-split or protocol conflict that could undermine Bitcoin's stability and spook the market, so I read this as a red flag rather than reassuring news.",neutral,0,"The post uses dramatic, sensationalist language about a specific block event without providing concrete factual details or data to support a clear bullish or bearish case.",1
+1vi3osf,bitcoin,Do you think what Trump did with his meme coins (rug pull) tainted cryptocurrency globally ?,"I keep telling my brother that when the President of the united states use cryptocurrency to steal 1 million of different investors out of billion of dollars badly damage the already poor image of crypto overall but he keep insisting that it only affected meme coins and barely bitcoin at all since it’s “different” and not the same
+
+To me it sounds completely out of touch with reality … he was a major Trump supporter unsurprisingly and i never liked Trump so i think he is in denial because the man that he kept defending so much is actually largely responsible for all of his crypto going way down recently 
+
+There’s other stuff too obviously like the cold card scandal ect. but it’s not helping at all and had a much larger impact on things that most trump supporters that are also crypto nerds wanna admit lol it’s baffling and so frustrating",153,8/7/26 15:25,https://reddit.com/r/CryptoCurrency/comments/1vi3osf/do_you_think_what_trump_did_with_his_meme_coins/,https://www.reddit.com/r/CryptoCurrency/comments/1vi3osf/do_you_think_what_trump_did_with_his_meme_coins/,"Do you think what Trump did with his meme coins (rug pull) tainted cryptocurrency globally ? I keep telling my brother that when the President of the united states use cryptocurrency to steal 1 million of different investors out of billion of dollars badly damage the already poor image of crypto overall but he keep insisting that it only affected meme coins and barely bitcoin at all since it’s “different” and not the same
+
+To me it sounds completely out of touch with reality … he was a major Trump supporter unsurprisingly and i never liked Trump so i think he is in denial because the man that he kept defending so much is actually largely responsible for all of his crypto going way down recently 
+
+There’s other stuff too obviously like the cold card scandal ect. but it’s not helping at all and had a much larger impact on things that most trump supporters that are also crypto nerds wanna admit lol it’s baffling and so frustrating",negative,0.716285408,-1,negative,-1,"The post highlights a meme coin rug pull scandal and other controversies that the author believes are damaging crypto's reputation and prices, which even from a bullish standpoint reflects genuine negative sentiment rather than ambiguous news.",negative,-1,"The post highlights a high-profile meme coin rug pull and related scandals that reinforce my view that crypto remains plagued by manipulation, poor optics, and reputational risk that even bleeds into bitcoin's image.",negative,-1,"The post frames a specific meme-coin controversy as reputationally damaging to cryptocurrency as a whole, emphasizing negative fallout and investor harm rather than any positive development.",0
+1vhvx6h,bitcoin,The Clarity Act just missed its window before the August recess. Here's why September is a much smaller door than people think.,"**Thune confirmed late Thursday that the Senate is punting the Clarity Act to September.** His words: the Democrats were insistent on no Clarity vote, and it gets queued up first thing when they return.
+
+That's being reported as a delay. I'd argue it's closer to a shot clock running down, and the calendar math is the part nobody's saying out loud.
+
+**Where the bill actually stands:**
+
+* Passed the House in July 2025, 294 to 134
+* Advanced out of Senate Banking in May 2026, 15 to 9
+* Has been sitting on the Senate Legislative Calendar since June 1 as Calendar No. 423, eligible for a floor vote any time leadership wanted to schedule one
+
+It sat there for two months and still didn't get called. That's the tell. This wasn't a scheduling accident, it was a vote count that wasn't there.
+
+**Why September is tighter than it sounds**: the Senate returns mid-September for a few weeks, then attention collapses into the November midterms. The bill needs 60 votes, which means real Democratic support, and reporting suggests some Democrats are reluctant precisely because of the political optics ahead of the midterms and the industry's growing lobbying footprint. Republican support has also wavered. And even if it clears the Senate, it goes back to the House before it can be signed.
+
+**The unresolved fights are the same three that have stalled it all year**: the ethics provisions being negotiated by Gallego and Tillis around officials and their spouses issuing digital assets, whether yield or rewards on stablecoins get allowed, and whether the bill gives enforcement agencies enough tools on illicit finance.
+
+**The part worth actually thinking about**: bills die at the end of a Congress. If Clarity doesn't clear the Senate in that September window, it doesn't just get postponed to next year. It restarts from zero in a new Congress with a possibly different balance of power, and the entire SEC/CFTC jurisdictional question stays unsettled by statute, which means it keeps getting decided by enforcement actions and court rulings instead.
+
+Full disclosure so nobody feels misled: I write a twice weekly newsletter covering bitcoin law and regulation, which is why I track this stuff this closely. Not linking it, not asking anyone to sign up, just being upfront about where the interest comes from.
+
+
+
+**So the question: has any of this actually changed what you do?** Did the regulatory limbo push you further into self custody, make you use offshore platforms, delay a project you wanted to build, or change how you handle taxes and reporting? Or have you just tuned Congress out entirely at this point and gone back to ignoring it?
+
+Sources: The Block, Politico via Cointelegraph, CoinDesk.",18,8/7/26 9:34,https://reddit.com/r/CryptoCurrency/comments/1vhvx6h/the_clarity_act_just_missed_its_window_before_the/,https://www.reddit.com/r/CryptoCurrency/comments/1vhvx6h/the_clarity_act_just_missed_its_window_before_the/,"The Clarity Act just missed its window before the August recess. Here's why September is a much smaller door than people think. **Thune confirmed late Thursday that the Senate is punting the Clarity Act to September.** His words: the Democrats were insistent on no Clarity vote, and it gets queued up first thing when they return.
+
+That's being reported as a delay. I'd argue it's closer to a shot clock running down, and the calendar math is the part nobody's saying out loud.
+
+**Where the bill actually stands:**
+
+* Passed the House in July 2025, 294 to 134
+* Advanced out of Senate Banking in May 2026, 15 to 9
+* Has been sitting on the Senate Legislative Calendar since June 1 as Calendar No. 423, eligible for a floor vote any time leadership wanted to schedule one
+
+It sat there for two months and still didn't get called. That's the tell. This wasn't a scheduling accident, it was a vote count that wasn't there.
+
+**Why September is tighter than it sounds**: the Senate returns mid-September for a few weeks, then attention collapses into the November midterms. The bill needs 60 votes, which means real Democratic support, and reporting suggests some Democrats are reluctant precisely because of the political optics ahead of the midterms and the industry's growing lobbying footprint. Republican support has also wavered. And even if it clears the Senate, it goes back to the House before it can be signed.
+
+**The unresolved fights are the same three that have stalled it all year**: the ethics provisions being negotiated by Gallego and Tillis around officials and their spouses issuing digital assets, whether yield or rewards on stablecoins get allowed, and whether the bill gives enforcement agencies enough tools on illicit finance.
+
+**The part worth actually thinking about**: bills die at the end of a Congress. If Clarity doesn't clear the Senate in that September window, it doesn't just get postponed to next year. It restarts from zero in a new Congress with a possibly different balance of power, and the entire SEC/CFTC jurisdictional question stays unsettled by statute, which means it keeps getting decided by enforcement actions and court rulings instead.
+
+Full disclosure so nobody feels misled: I write a twice weekly newsletter covering bitcoin law and regulation, which is why I track this stuff this closely. Not linking it, not asking anyone to sign up, just being upfront about where the interest comes from.
+
+
+
+**So the question: has any of this actually changed what you do?** Did the regulatory limbo push you further into self custody, make you use offshore platforms, delay a project you wanted to build, or change how you handle taxes and reporting? Or have you just tuned Congress out entirely at this point and gone back to ignoring it?
+
+Sources: The Block, Politico via Cointelegraph, CoinDesk.",negative,0.559820414,-1,positive,1,"Despite the delay, the bill has already cleared major hurdles like the House vote and Senate Banking Committee approval, showing strong bipartisan momentum that keeps regulatory clarity for crypto well within reach even if September ends up being the decisive window.",negative,-1,"This lays out a legitimate regulatory clarity bill stalling for months with unresolved partisan fights and a shrinking window before it could die entirely and restart from scratch, which is exactly the kind of drawn-out uncertainty that keeps institutional money on the sidelines.",negative,-1,"The post details concrete legislative obstacles, stalled bipartisan support, and a shrinking timeline that suggest the Clarity Act (favorable crypto regulation) faces a high risk of failing to pass before the current Congress ends, which is a negative development for regulatory clarity in crypto.",2
+1vhtl4f,bitcoin,Anyone else find themselves naturally buying less Bitcoin over time?,"A couple of years ago I was pretty focused on building a Bitcoin position.
+
+My goal was to get to 0.1 BTC and once I finally got there it almost felt like a switch flipped.
+
+Instead of feeling like I needed more Bitcoin, I actually found myself putting most of my monthly investing into index funds instead. Not because I've lost conviction, but because my overall portfolio feels a bit more balanced that way.
+
+I've noticed something similar with my precious metals too. Once an allocation gets to a point I'm happy with, I'm much more comfortable just letting it do its thing while I build up other areas.
+
+Curious if anyone else has found their investing naturally evolves like that, or if you're still putting most of your monthly investing into Bitcoin.",156,8/7/26 7:13,https://reddit.com/r/CryptoCurrency/comments/1vhtl4f/anyone_else_find_themselves_naturally_buying_less/,https://www.reddit.com/r/CryptoCurrency/comments/1vhtl4f/anyone_else_find_themselves_naturally_buying_less/,"Anyone else find themselves naturally buying less Bitcoin over time? A couple of years ago I was pretty focused on building a Bitcoin position.
+
+My goal was to get to 0.1 BTC and once I finally got there it almost felt like a switch flipped.
+
+Instead of feeling like I needed more Bitcoin, I actually found myself putting most of my monthly investing into index funds instead. Not because I've lost conviction, but because my overall portfolio feels a bit more balanced that way.
+
+I've noticed something similar with my precious metals too. Once an allocation gets to a point I'm happy with, I'm much more comfortable just letting it do its thing while I build up other areas.
+
+Curious if anyone else has found their investing naturally evolves like that, or if you're still putting most of your monthly investing into Bitcoin.",neutral,0.74624896,0,positive,1,"Although the poster is diversifying, they explicitly state they haven't lost conviction in Bitcoin, having already secured a solid position, which reflects healthy long-term bullish confidence rather than doubt.",negative,-1,"The post signals waning demand as even a self-described Bitcoin believer admits to diverting funds away from BTC into index funds and other assets, which is a subtle red flag for slowing accumulation and weaker future buy pressure.",neutral,0,"The post is a personal, reflective account of portfolio allocation strategy rather than a factual claim about Bitcoin's price or fundamentals, expressing neither bullish nor bearish sentiment toward the asset itself.",2
+1vhrkqx,bitcoin,"With the whole ColdCard fiasco, you should consider generating a new 24-word seed phrase of your own, manually, regardless of what hardware wallet you're using. (Alternate title: Finding your 24th word the right way)","tldr: roll dice, find the right 256-word range, pray as you brute force, profit.
+
+I'll try and keep this simple and avoid using difficult words.
+
+To generate your own seed phrase, you're good to go even with just [rolling some dice](https://github.com/veebch/Bip39-Dice), [mix them up with a coin flip](https://github.com/taelfrinn/Bip39-diceware), or even [use a deck of cards](https://github.com/jimbojw/seed-picker-solitaire).
+
+But the real question is, how do we get the 24th word? There are tools out there that lets you type it on any machine, preferably offline, or even better: **permanently air-gapped machine**.
+
+What if you don't have an air-gapped machine? There are ways to do it like using a Seed Signer.
+
+But you can (if you're into it) do it manually too. Here's how:
+
+Well, after you get the 23 words, there are 8 valid choices for the final word (8 out of the 2048 BIP39 list). They are distributed so there's exactly **one valid word, in every 256-word range**. In other words:
+
+* There's only 1 valid word between 1 (abandon) and 256 (cable)
+* There's only 1 valid word between 257 (cactus) and 512 (divide)
+* There's only 1 valid word between 513 (divorce) and 768 (garment)
+* There's only 1 valid word between 769 (gain) and 1024 (lend)
+
+.. so on and on. You get the gist.
+
+Whatever method you pick, **you'll want to make sure the 24th word isn't selected manually**. Generate it randomly just like the previous 23 words, and use the result as a starting point.
+
+Once you get the 24th word (I'll use ""verify"" as an example), here are the steps to follow, in simpler terms:
+
+1. The word ""verify"" is number 1942 on the BIP39 word list
+2. Subtract 1 from 1942 to get its 0-based index (counting starts from 0). You'll get 1941
+3. Convert this number to an 11-bit binary. You'll get **111 1001 0101**
+4. Take the first 3 bits (in this case, **111**), discard the remaining 8 bits, and append 8 zeroes so it becomes **111 0000 0000**
+5. Convert this number back to decimal. You'll get 1792
+6. Your 24th word checksum can be found from word 1793 to 2048.
+
+Sure, you can just pick any 256-word range (e.g. 1025-1280), but the whole point of generating your own seed is to make it truly random without any human interaction/intervention.
+
+Is ~~trying~~ brute forcing through 256 words a pain? Yes, though probably much less so than calculating your own [sha256 checksum manually with pen and paper](https://armantheparman.com/sha256). This is especially true, if you're using hardware wallets that don't allow you to edit a specific word. (e.g. on Ledger, if the 24-word phrase is invalid, you'll have to input it again from word 1).
+
+But hey, you might get lucky and find the right 24th word on your 10th attempt. Or on your 200th ¯\\\_(ツ)\_/¯
+
+So I suggest printing out the [BIP39 word list](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and crossing them one by one as you try to find the right checksum.
+
+Good luck, and remember: don't trust, verify!",29,8/7/26 5:20,https://reddit.com/r/CryptoCurrency/comments/1vhrkqx/with_the_whole_coldcard_fiasco_you_should/,https://www.reddit.com/r/CryptoCurrency/comments/1vhrkqx/with_the_whole_coldcard_fiasco_you_should/,"With the whole ColdCard fiasco, you should consider generating a new 24-word seed phrase of your own, manually, regardless of what hardware wallet you're using. (Alternate title: Finding your 24th word the right way) tldr: roll dice, find the right 256-word range, pray as you brute force, profit.
+
+I'll try and keep this simple and avoid using difficult words.
+
+To generate your own seed phrase, you're good to go even with just [rolling some dice](https://github.com/veebch/Bip39-Dice), [mix them up with a coin flip](https://github.com/taelfrinn/Bip39-diceware), or even [use a deck of cards](https://github.com/jimbojw/seed-picker-solitaire).
+
+But the real question is, how do we get the 24th word? There are tools out there that lets you type it on any machine, preferably offline, or even better: **permanently air-gapped machine**.
+
+What if you don't have an air-gapped machine? There are ways to do it like using a Seed Signer.
+
+But you can (if you're into it) do it manually too. Here's how:
+
+Well, after you get the 23 words, there are 8 valid choices for the final word (8 out of the 2048 BIP39 list). They are distributed so there's exactly **one valid word, in every 256-word range**. In other words:
+
+* There's only 1 valid word between 1 (abandon) and 256 (cable)
+* There's only 1 valid word between 257 (cactus) and 512 (divide)
+* There's only 1 valid word between 513 (divorce) and 768 (garment)
+* There's only 1 valid word between 769 (gain) and 1024 (lend)
+
+.. so on and on. You get the gist.
+
+Whatever method you pick, **you'll want to make sure the 24th word isn't selected manually**. Generate it randomly just like the previous 23 words, and use the result as a starting point.
+
+Once you get the 24th word (I'll use ""verify"" as an example), here are the steps to follow, in simpler terms:
+
+1. The word ""verify"" is number 1942 on the BIP39 word list
+2. Subtract 1 from 1942 to get its 0-based index (counting starts from 0). You'll get 1941
+3. Convert this number to an 11-bit binary. You'll get **111 1001 0101**
+4. Take the first 3 bits (in this case, **111**), discard the remaining 8 bits, and append 8 zeroes so it becomes **111 0000 0000**
+5. Convert this number back to decimal. You'll get 1792
+6. Your 24th word checksum can be found from word 1793 to 2048.
+
+Sure, you can just pick any 256-word range (e.g. 1025-1280), but the whole point of generating your own seed is to make it truly random without any human interaction/intervention.
+
+Is ~~trying~~ brute forcing through 256 words a pain? Yes, though probably much less so than calculating your own [sha256 checksum manually with pen and paper](https://armantheparman.com/sha256). This is especially true, if you're using hardware wallets that don't allow you to edit a specific word. (e.g. on Ledger, if the 24-word phrase is invalid, you'll have to input it again from word 1).
+
+But hey, you might get lucky and find the right 24th word on your 10th attempt. Or on your 200th ¯\\\_(ツ)\_/¯
+
+So I suggest printing out the [BIP39 word list](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and crossing them one by one as you try to find the right checksum.
+
+Good luck, and remember: don't trust, verify!",neutral,0.93095535,0,positive,1,"The post is a proactive, educational guide empowering users to enhance their self-custody security after the ColdCard issue, which reflects the resilient, self-reliant ethos that keeps me bullish on crypto's long-term security culture.",negative,-1,"The fact that users now have to resort to convoluted manual dice-and-math workarounds just to avoid trusting hardware wallet firmware after the ColdCard fiasco underscores how fragile and exploitable custody solutions remain, reinforcing my skepticism about the space's readiness for average users.",neutral,0,"This is an educational, technical how-to guide about generating secure seed phrases and does not express bullish or bearish views on the cryptocurrency's price or value.",2
+1vhiti7,bitcoin,Be aware of the expected august hard fork for eCash from Bitcoin,"Many would assume the ""great, free coins"" -mentality here, but I want to take more cautious approach, and give a fair warning. It is ofc up to you then, to do whatever you want with this info.
+
+The problem here is, that this fork (BTC->eCash) opens a POSSIBILITY of a loss of your Bitcoin, if you are not careful. 
+
+The biggest concern is the replay risk, which, if not properly protected in the implementation, allows you to copy the eCash transaction to BTC transaction. At least in the early stages, this could mean that BTC network accepts the transaction valid, and transfers your BTC to the same address you sent the eCash. 
+
+If there are no guardrails on this, we will see scams on this like ""Sell me your eCash. I'll buy them for x BTC."" And without the guardrails, \*buff\*, your Bitcoins are stolen.
+
+The difference in the previous main forks (eg. BTC->BCH or ETH->ETC) is, that those forks had different rules, and even if you copied the transaction to the source chain, it would not go through. 
+
+I have NOT found any clear indications wether those guardrails are in place. At least there are posts and rumors that say that they are not in place. So I urge you to make sure, before acting.
+
+TLDR:  
+Check if there are protections in place for replay attack on the eCash implementation before doing anything with your possible forked coins. If in doubt, do nothing. The fork itself won't steal your BTC.",23,8/6/26 22:29,https://reddit.com/r/CryptoCurrency/comments/1vhiti7/be_aware_of_the_expected_august_hard_fork_for/,https://www.reddit.com/r/CryptoCurrency/comments/1vhiti7/be_aware_of_the_expected_august_hard_fork_for/,"Be aware of the expected august hard fork for eCash from Bitcoin Many would assume the ""great, free coins"" -mentality here, but I want to take more cautious approach, and give a fair warning. It is ofc up to you then, to do whatever you want with this info.
+
+The problem here is, that this fork (BTC->eCash) opens a POSSIBILITY of a loss of your Bitcoin, if you are not careful. 
+
+The biggest concern is the replay risk, which, if not properly protected in the implementation, allows you to copy the eCash transaction to BTC transaction. At least in the early stages, this could mean that BTC network accepts the transaction valid, and transfers your BTC to the same address you sent the eCash. 
+
+If there are no guardrails on this, we will see scams on this like ""Sell me your eCash. I'll buy them for x BTC."" And without the guardrails, \*buff\*, your Bitcoins are stolen.
+
+The difference in the previous main forks (eg. BTC->BCH or ETH->ETC) is, that those forks had different rules, and even if you copied the transaction to the source chain, it would not go through. 
+
+I have NOT found any clear indications wether those guardrails are in place. At least there are posts and rumors that say that they are not in place. So I urge you to make sure, before acting.
+
+TLDR:  
+Check if there are protections in place for replay attack on the eCash implementation before doing anything with your possible forked coins. If in doubt, do nothing. The fork itself won't steal your BTC.",negative,0.591186106,-1,neutral,0,"While the post highlights a legitimate replay-attack risk from the eCash hard fork, it's framed as a cautionary heads-up rather than a fundamental bearish signal on BTC, and forks like this can still open doors to new opportunities once the community irons out the guardrails.",negative,-1,"The post highlights a serious replay-attack vulnerability that could let scammers drain your actual BTC, underscoring yet another risk-laden red flag lurking behind a supposed 'free coins' fork.",negative,-1,"The post highlights a factual security risk (potential lack of replay protection) associated with the eCash hard fork that could lead to loss of BTC, framing the event as a cautionary risk rather than a benefit.",1
+1vhcvpk,bitcoin,"In 2011, a guy bought Domino's with 19.12 BTC to record a tutorial on how Bitcoin works",,23,8/6/26 18:42,https://reddit.com/r/CryptoCurrency/comments/1vhcvpk/in_2011_a_guy_bought_dominos_with_1912_btc_to/,https://www.youtube.com/watch?v=n5uoEqb3VaQ,"In 2011, a guy bought Domino's with 19.12 BTC to record a tutorial on how Bitcoin works ",neutral,0.929751873,0,positive,1,"This iconic early transaction highlights how far Bitcoin has come in value and adoption, a great reminder of the massive upside for long-term holders.",negative,-1,"This is just another retelling of the tired 'early Bitcoin spent on pizza/Domino's' story, which really just underscores how absurdly volatile and unreliable Bitcoin has always been as a currency rather than being genuinely bullish news.",neutral,0,The post simply recounts a historical factual anecdote about an early Bitcoin transaction without presenting any analysis or implications for Bitcoin's current value or future prospects.,2
+1vh93o7,bitcoin,Easiest way to convert and then change exchange?,"Hello,
+
+Please no roasting or anything but a while back I invested in CRO and did the lockup for the card and thankfully got in and out net positive barely. Now I have around $700 in staking and earnings in CRO in the crypto.com app and want to have it in bitcoin while the rest of my bitcoin is on Robinhood(again no roasting I don’t mind it and don’t care). Would it be better to swap it for btc then transfer it or sell it for usd take it to my bank and then deposit into Robinhood and buy? ",11,8/6/26 16:26,https://reddit.com/r/CryptoCurrency/comments/1vh93o7/easiest_way_to_convert_and_then_change_exchange/,https://www.reddit.com/r/CryptoCurrency/comments/1vh93o7/easiest_way_to_convert_and_then_change_exchange/,"Easiest way to convert and then change exchange? Hello,
+
+Please no roasting or anything but a while back I invested in CRO and did the lockup for the card and thankfully got in and out net positive barely. Now I have around $700 in staking and earnings in CRO in the crypto.com app and want to have it in bitcoin while the rest of my bitcoin is on Robinhood(again no roasting I don’t mind it and don’t care). Would it be better to swap it for btc then transfer it or sell it for usd take it to my bank and then deposit into Robinhood and buy? ",neutral,0.930801988,0,neutral,0,"This post is simply a practical question about transferring and converting CRO to BTC across platforms, with no real commentary on market direction or price sentiment, though the fact they're already net positive on their CRO investment is a small bright spot.",negative,-1,"The post highlights how the user only barely broke even on CRO and is now scrambling to exit into BTC/USD, underscoring CRO's weak performance and the general hassle and risk of relying on the crypto.com ecosystem.",neutral,0,"The post is a factual question about the logistics of converting CRO to BTC across platforms, without expressing any opinion on CRO's value or prospects.",1
+1vh6agi,bitcoin,It makes sense,,42,8/6/26 14:45,https://reddit.com/r/CryptoCurrency/comments/1vh6agi/it_makes_sense/,https://i.redd.it/4nt6cfqtorhh1.jpeg,It makes sense ,neutral,0.867246807,0,positive,1,"Even though the post is vague, agreement or affirmation like 'it makes sense' typically signals growing understanding and confidence in the market narrative, which is a bullish sign.",neutral,0,"The post offers no substantive information or data, just a vague affirmation, which is a red flag in itself since it could be masking hype or blind agreement without critical analysis of underlying risks.",neutral,0,The post contains no factual or substantive information about the cryptocurrency to assess sentiment either way.,1
+1vh1u7x,bitcoin,Beyond the Protocol: The Human Cost of the Bitcoin Access Stack and the Myth of Absolute Security.,"**🚨 $150 Million Vanished. The Vault Was Never Touched.**
+
+The Bitcoin network wasn't hacked. The victims did everything right. They bought the hardware. They hid the keys. They stayed offline.
+
+But the perfect heist doesn’t break into the fortress—it predicts the combination before you even spin the dial.
+
+**The blockchain is flawless, but the bridge leading to it is collapsing. It is time to expose the fatal flaw in the ""Bitcoin Access Stack"" and face a hard truth:**
+
+Not your keys, not your coins is no longer enough to save you.",3,8/6/26 11:41,https://reddit.com/r/CryptoCurrency/comments/1vh1u7x/beyond_the_protocol_the_human_cost_of_the_bitcoin/,https://inbitcoinwetrust.substack.com/p/beyond-the-protocol-the-human-cost,"Beyond the Protocol: The Human Cost of the Bitcoin Access Stack and the Myth of Absolute Security. **🚨 $150 Million Vanished. The Vault Was Never Touched.**
+
+The Bitcoin network wasn't hacked. The victims did everything right. They bought the hardware. They hid the keys. They stayed offline.
+
+But the perfect heist doesn’t break into the fortress—it predicts the combination before you even spin the dial.
+
+**The blockchain is flawless, but the bridge leading to it is collapsing. It is time to expose the fatal flaw in the ""Bitcoin Access Stack"" and face a hard truth:**
+
+Not your keys, not your coins is no longer enough to save you.",neutral,0.785112202,0,neutral,0,"While the headline about $150M vanishing sounds alarming, it actually reinforces bullish thesis—the Bitcoin protocol itself remains flawless and unhacked, with the issue being user-side security practices rather than any weakness in the network, so it's more a cautionary tale about custody than bad news for Bitcoin's fundamentals.",negative,-1,"This highlights a $150M loss and exposes systemic vulnerabilities in the 'Bitcoin Access Stack,' confirming that even proper self-custody practices can't protect users from sophisticated attacks, undermining the core security promise of the network.",negative,-1,"The post highlights a significant security failure resulting in $150 million in losses due to vulnerabilities in the access/custody layer surrounding Bitcoin, framing self-custody as insufficient protection, which is a negative development for investor confidence.",1
+1vh1i66,bitcoin,The CLARITY Act Shouldn't Affect Bitcoin Prices,"For about 10 years now the CFTC and SEC have held that bitcoin is not offered and sold as a security, meaning it's largely unregulated under federal law. The CLARITY Act doesn't much change that and if anything could be argued to increase regulations around bitcoin trading. 
+
+One might argue that potential mass adoption hypothetically driven by the CLARITY Act's passage would boost bitcoin values. However bitcoin isn't much used in the provision of services in crypto markets - it's largely a buy and hold asset. And there's not much if any layer two that relies on its chain. In many ways it's its own market segregated from the rest of crypto.
+
+Curious if others have different thoughts.",29,8/6/26 11:25,https://reddit.com/r/CryptoCurrency/comments/1vh1i66/the_clarity_act_shouldnt_affect_bitcoin_prices/,https://www.reddit.com/r/CryptoCurrency/comments/1vh1i66/the_clarity_act_shouldnt_affect_bitcoin_prices/,"The CLARITY Act Shouldn't Affect Bitcoin Prices For about 10 years now the CFTC and SEC have held that bitcoin is not offered and sold as a security, meaning it's largely unregulated under federal law. The CLARITY Act doesn't much change that and if anything could be argued to increase regulations around bitcoin trading. 
+
+One might argue that potential mass adoption hypothetically driven by the CLARITY Act's passage would boost bitcoin values. However bitcoin isn't much used in the provision of services in crypto markets - it's largely a buy and hold asset. And there's not much if any layer two that relies on its chain. In many ways it's its own market segregated from the rest of crypto.
+
+Curious if others have different thoughts.",neutral,0.559392929,0,positive,1,"Even though the post argues the CLARITY Act won't directly boost bitcoin prices, it confirms bitcoin's long-standing unregulated, secure status as a non-security and highlights its strength as a standalone, buy-and-hold store of value, which is fundamentally bullish for confidence in BTC.",negative,-1,"The post downplays any potential upside from the CLARITY Act while emphasizing that increased regulation and Bitcoin's isolated, stagnant role in the broader crypto ecosystem could limit or even hinder price growth, which reinforces bearish concerns about limited catalysts and regulatory risk.",neutral,0,"The post presents a balanced, factual analysis arguing the CLARITY Act will have little impact on Bitcoin's price, without expressing bullish or bearish bias.",2
+1vgum7v,bitcoin,Coldcard hack could lift demand for regulated bitcoin products,,13,8/6/26 4:56,https://reddit.com/r/CryptoCurrency/comments/1vgum7v/coldcard_hack_could_lift_demand_for_regulated/,https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say,Coldcard hack could lift demand for regulated bitcoin products ,positive,0.936252415,1,positive,1,"While the hack itself sounds concerning on the surface, it likely pushes investors toward regulated, more secure bitcoin products, which is a bullish sign for institutional adoption and market maturity.",negative,-1,"A hack targeting a hardware wallet is a glaring security red flag that undermines trust in self-custody, and any silver lining about 'demand for regulated products' just underscores how fragile and exploitable the crypto ecosystem still is.",neutral,0,The post reports a security vulnerability finding as a factual event and speculates on a potential market effect without providing quantitative data or clear directional bias for bitcoin itself.,2
+1vj258b,btc,"Pig butchering did 7.2B USD in reported US losses in 2025. The interesting part is the payment rail design: mule IBANs, card on-ramps, and exchange accounts opened in the victim's own name","Two numbers from the FBI IC3 2025 report that usually get blurred together: crypto investment fraud (the pig butchering pattern) was 7.2B USD, the largest single loss category, while the broader ""cryptocurrency mentioned as payment rail"" descriptor was 11.37B, up 22 percent year over year. Different things. The first is the scheme, the second is every crime that touched crypto on the way.
+
+What the case files show about rail design, in order of appearance:
+
+Stage one is fiat and boring: a plain SEPA or domestic transfer to a mule account in the victim's country, opened on a rented identity, drained within hours.
+
+Stage two is card on-ramps: the victim buys USDT or BTC through legitimate processors, the merchant descriptor on the bank statement looks clean, and the crypto goes to an address dictated in chat.
+
+Stage three is the elegant one: an account at a real exchange gets opened with the victim's own KYC documents, extracted earlier under a courier or ticket-booking pretext. Then the account gets linked to the operator's infrastructure: withdrawal address whitelists, sub-accounts, sometimes API keys. Every deposit the victim makes drains out on its own. On-chain and on paper, the victim looks like the launderer. That is not a side effect, that is the design goal.
+
+Zoom out and the scale makes sense: UNODC's Inflection Point report describes industrial scam centers in Southeast Asia clearing close to 40B a year, and TRM's 2026 crypto crime report puts roughly 35B moving into fraud schemes over the year. This is logistics, not romance.
+
+Practical takeaways for this sub: withdrawal whitelist changes and API key grants on a fresh account are the tell; exchanges hold exactly the evidence prosecutors need (KYC, device IDs, IP logs, linkage between accounts), and a properly targeted preservation request early in a case does more than any on-chain sleuthing later. If someone you know is ""investing with a partner they met online,"" check whether they can withdraw ten dollars. The answer settles the question.",4,8/8/26 17:41,https://reddit.com/r/CryptoCurrency/comments/1vj258b/pig_butchering_did_72b_usd_in_reported_us_losses/,https://ostrzezenia-publiczne.pl/en/romance-fraud/,"Pig butchering did 7.2B USD in reported US losses in 2025. The interesting part is the payment rail design: mule IBANs, card on-ramps, and exchange accounts opened in the victim's own name Two numbers from the FBI IC3 2025 report that usually get blurred together: crypto investment fraud (the pig butchering pattern) was 7.2B USD, the largest single loss category, while the broader ""cryptocurrency mentioned as payment rail"" descriptor was 11.37B, up 22 percent year over year. Different things. The first is the scheme, the second is every crime that touched crypto on the way.
+
+What the case files show about rail design, in order of appearance:
+
+Stage one is fiat and boring: a plain SEPA or domestic transfer to a mule account in the victim's country, opened on a rented identity, drained within hours.
+
+Stage two is card on-ramps: the victim buys USDT or BTC through legitimate processors, the merchant descriptor on the bank statement looks clean, and the crypto goes to an address dictated in chat.
+
+Stage three is the elegant one: an account at a real exchange gets opened with the victim's own KYC documents, extracted earlier under a courier or ticket-booking pretext. Then the account gets linked to the operator's infrastructure: withdrawal address whitelists, sub-accounts, sometimes API keys. Every deposit the victim makes drains out on its own. On-chain and on paper, the victim looks like the launderer. That is not a side effect, that is the design goal.
+
+Zoom out and the scale makes sense: UNODC's Inflection Point report describes industrial scam centers in Southeast Asia clearing close to 40B a year, and TRM's 2026 crypto crime report puts roughly 35B moving into fraud schemes over the year. This is logistics, not romance.
+
+Practical takeaways for this sub: withdrawal whitelist changes and API key grants on a fresh account are the tell; exchanges hold exactly the evidence prosecutors need (KYC, device IDs, IP logs, linkage between accounts), and a properly targeted preservation request early in a case does more than any on-chain sleuthing later. If someone you know is ""investing with a partner they met online,"" check whether they can withdraw ten dollars. The answer settles the question.",neutral,0.840437949,0,negative,-1,"This post details large-scale, systemic crypto fraud (pig butchering scams) exploiting exchange KYC and identity theft, which is unambiguously bad news for the industry's reputation and victims, even a bull has to call this what it is.",negative,-1,"This confirms exactly what bears like me have been saying all along: crypto's exchange KYC and on-ramp infrastructure is being weaponized at massive scale for fraud, with tens of billions in losses annually exposing how fragile and abuse-prone the whole ecosystem's rails really are.",negative,-1,"The post details large-scale, escalating financial fraud (pig butchering scams) that exploits crypto payment rails, highlighting massive victim losses and systemic abuse of exchanges, which reflects negatively on crypto's security and reputation as a payment system.",0
+1vhz7ao,btc,Reminder: Share your Bybit EU Year Recap and receive €20 in BTC,,8,8/7/26 12:25,https://reddit.com/r/CryptoCurrency/comments/1vhz7ao/reminder_share_your_bybit_eu_year_recap_and/,https://i.redd.it/keobshfkhxhh1.png,Reminder: Share your Bybit EU Year Recap and receive €20 in BTC ,neutral,0.740250528,0,positive,1,"A free €20 in BTC just for sharing your year-end recap is a nice incentive that drives engagement and puts more Bitcoin into people's hands, which is bullish for adoption.",negative,-1,"This is just a marketing gimmick by Bybit to farm social media engagement and user data under the guise of a tiny €20 reward, which smells like a promotional gimmick rather than any real bullish development for the market.",neutral,0,"The post is a promotional reminder about a Bybit EU marketing campaign offering a small BTC reward for sharing a year-end recap, containing no substantive factual information about a cryptocurrency's fundamentals or price action.",2
+1vgodia,btc,What people are missing with the Cold Card hack (my thoughts),"Everyone on here has obviously heard about the Cold Card hack, where the seed generation with their wallets being incredibly weak and predictable. I've also been seeing some things that suggest the company was aware of this ""bug"" years ago but yet did nothing about it. It's also interesting to me that it was so heavily shilled/marketed here on reddit.
+
+With this out of the way, here's what I'm seeing with this event.
+
+From what I've seen with a recent update, there were almost 5k wallets drained with a total value over $100m. These people otherwise did everything right but because of this garbage wallet that they used they had their funds essentially vanish. There were even some with short passphrases utilizing a couple words that also were victims of this as well, so people that would have taken some extra steps to try to protect themselves. While this is incredibly unfortunate for these individuals, the panic/freakout over self custody I'm seeing right now is severely overblown.
+
+People are starting to question whether single sig wallets are sufficient and if they should use a passphrase, multi sig, etc. I also can see this event being taken by the media and tradfi institutions and used as a tactic to scare people from utilizing self custody and instead moving to ETFs and other BTC/crypto products. I understand the fear and uncertainty, but there's something that many on here seem to be missing.
+
+As mentioned, this Cold Card hack drained approximately 5,000 wallets. Meanwhile, there are over 22 million BTC addresses with $100+ and 10.4 million with $1,000+.  You had this garbage wallet that drained a number of addresses that is MINISCULE compared to the total number of addresses with $100+ worth of BTC in self custody. 1% of 22 million wallet with $100+ in BTC is 220k addresses, so this hack represents approximately 0.02% of these addresses, 1 out of 5000.
+
+Instead of buying from one of the top companies that have sold millions of units (Ledger, Trezor, Tangem, etc.) these people bought some basically no name wallet that ended up having major flaws related to security. A Cold Card was also $250+ from what I saw, when you could have bought a basic Ledger or Trezor model for around $60 or so. The company according to the page I linked below also has a whooping 5 employees as of June of this year lol, to put this into perspective Ledger has over 800 and Trezor with over 200. 
+
+[Coinkite - 2026 Company Profile, Team, Funding & Competitors - Tracxn](https://tracxn.com/d/companies/coinkite/__SfiyJWlUWlVtnOSQYBha__8rAO0a41gn9G4loecZfbc#about-the-company)
+
+You are more likely to lose your crypto wealth/assets through user error when setting up and/or losing your seeds. If you are concerned about security, consider adding a strong passphrase to your primary seeds.
+
+IF something like this had happened to one of the big cold wallet companies though, the ramifications for the broader crypto space would be enormous. With this said, I do NOT think that the general public will be utilizing self custody as we get into the 2030s and beyond, they'll primarily be boarded onto the crypto train through tradfi institutions.",78,8/6/26 0:02,https://reddit.com/r/CryptoCurrency/comments/1vgodia/what_people_are_missing_with_the_cold_card_hack/,https://www.reddit.com/r/CryptoCurrency/comments/1vgodia/what_people_are_missing_with_the_cold_card_hack/,"What people are missing with the Cold Card hack (my thoughts) Everyone on here has obviously heard about the Cold Card hack, where the seed generation with their wallets being incredibly weak and predictable. I've also been seeing some things that suggest the company was aware of this ""bug"" years ago but yet did nothing about it. It's also interesting to me that it was so heavily shilled/marketed here on reddit.
+
+With this out of the way, here's what I'm seeing with this event.
+
+From what I've seen with a recent update, there were almost 5k wallets drained with a total value over $100m. These people otherwise did everything right but because of this garbage wallet that they used they had their funds essentially vanish. There were even some with short passphrases utilizing a couple words that also were victims of this as well, so people that would have taken some extra steps to try to protect themselves. While this is incredibly unfortunate for these individuals, the panic/freakout over self custody I'm seeing right now is severely overblown.
+
+People are starting to question whether single sig wallets are sufficient and if they should use a passphrase, multi sig, etc. I also can see this event being taken by the media and tradfi institutions and used as a tactic to scare people from utilizing self custody and instead moving to ETFs and other BTC/crypto products. I understand the fear and uncertainty, but there's something that many on here seem to be missing.
+
+As mentioned, this Cold Card hack drained approximately 5,000 wallets. Meanwhile, there are over 22 million BTC addresses with $100+ and 10.4 million with $1,000+.  You had this garbage wallet that drained a number of addresses that is MINISCULE compared to the total number of addresses with $100+ worth of BTC in self custody. 1% of 22 million wallet with $100+ in BTC is 220k addresses, so this hack represents approximately 0.02% of these addresses, 1 out of 5000.
+
+Instead of buying from one of the top companies that have sold millions of units (Ledger, Trezor, Tangem, etc.) these people bought some basically no name wallet that ended up having major flaws related to security. A Cold Card was also $250+ from what I saw, when you could have bought a basic Ledger or Trezor model for around $60 or so. The company according to the page I linked below also has a whooping 5 employees as of June of this year lol, to put this into perspective Ledger has over 800 and Trezor with over 200. 
+
+[Coinkite - 2026 Company Profile, Team, Funding & Competitors - Tracxn](https://tracxn.com/d/companies/coinkite/__SfiyJWlUWlVtnOSQYBha__8rAO0a41gn9G4loecZfbc#about-the-company)
+
+You are more likely to lose your crypto wealth/assets through user error when setting up and/or losing your seeds. If you are concerned about security, consider adding a strong passphrase to your primary seeds.
+
+IF something like this had happened to one of the big cold wallet companies though, the ramifications for the broader crypto space would be enormous. With this said, I do NOT think that the general public will be utilizing self custody as we get into the 2030s and beyond, they'll primarily be boarded onto the crypto train through tradfi institutions.",neutral,0.739544272,0,neutral,0,"While the post reports a genuinely negative security incident (a hardware wallet flaw draining $100M from ~5k wallets), the author's framing emphasizes that this represents a tiny fraction of self-custody addresses and pushes back against overblown panic, making the overall takeaway more balanced/reassuring about self-custody's viability than outright bearish on crypto itself.",negative,-1,"This highlights a major security failure in a widely-used hardware wallet where a company allegedly knew about a critical seed-generation flaw for years yet did nothing, resulting in $100m+ drained from thousands of self-custody users—a glaring red flag for the supposed safety of crypto self-custody regardless of the poster's attempt to downplay it with statistics.",negative,-1,"The post details a significant security failure in a hardware wallet that resulted in over $100 million in losses across nearly 5,000 wallets, which is a material negative event for the affected product and raises concerns about self-custody practices, even though the author attempts to downplay its overall significance.",1
+1vgg087,btc,Does anyone loop ONYC or strategies like it?,"I’ve become interested in OnRe’s On Chain Yield Coin, ONYC. It gets a steady 10-12% APY from reinsurance underwriting. It can be looped/leveraged on Kamino by borrowing USDC/USDG against it. 
+
+Does anybody use this strategy or anything like it for RWA? I’m interesting in using DeFi to have a tiny sleeve of my portfolio achieve a 10% CAGR. Less than 1% though of course. 
+
+What additional risks would I be taking? Could it be worth it to loop, or would it be better to just hold the tokens outright?
+
+What other RWA do you guys use in DeFi to get better than average returns? I’m not the most interested in holding majors, I don’t personally believe in the price of BTC or ETH going up.
+
+But I think DeFi is really fascinating and probably had some good opportunities? I just don’t know what I’d personally do to pursue it, safely of course. 
+
+I was also interested in LPing for RWA like gold, tokenized ETFs, or tokenized stocks. Wouldn’t that be a benefit in flat or choppy markets, to essentially harvest volatility? 
+
+I would just be devastated to be drained or hacked somehow. I know these protocols can get hacked and that doesn’t sit right with me. I’d rather have most of my money in safer ETFs with actual insurance. ",1,8/5/26 18:41,https://reddit.com/r/CryptoCurrency/comments/1vgg087/does_anyone_loop_onyc_or_strategies_like_it/,https://www.reddit.com/r/CryptoCurrency/comments/1vgg087/does_anyone_loop_onyc_or_strategies_like_it/,"Does anyone loop ONYC or strategies like it? I’ve become interested in OnRe’s On Chain Yield Coin, ONYC. It gets a steady 10-12% APY from reinsurance underwriting. It can be looped/leveraged on Kamino by borrowing USDC/USDG against it. 
+
+Does anybody use this strategy or anything like it for RWA? I’m interesting in using DeFi to have a tiny sleeve of my portfolio achieve a 10% CAGR. Less than 1% though of course. 
+
+What additional risks would I be taking? Could it be worth it to loop, or would it be better to just hold the tokens outright?
+
+What other RWA do you guys use in DeFi to get better than average returns? I’m not the most interested in holding majors, I don’t personally believe in the price of BTC or ETH going up.
+
+But I think DeFi is really fascinating and probably had some good opportunities? I just don’t know what I’d personally do to pursue it, safely of course. 
+
+I was also interested in LPing for RWA like gold, tokenized ETFs, or tokenized stocks. Wouldn’t that be a benefit in flat or choppy markets, to essentially harvest volatility? 
+
+I would just be devastated to be drained or hacked somehow. I know these protocols can get hacked and that doesn’t sit right with me. I’d rather have most of my money in safer ETFs with actual insurance. ",neutral,0.92040056,0,positive,1,"The poster is genuinely excited about DeFi yield strategies like looping ONYC for steady double-digit APY and exploring RWA opportunities, showing enthusiasm for innovative on-chain income despite some caution about smart contract risk.",negative,-1,"The post reveals a risky leveraged yield-farming scheme built on opaque reinsurance underwriting and DeFi smart contracts, and the author themselves flags fears of hacks and draining, which underscores the fragile, high-risk nature of chasing yield in this space.",neutral,0,"The post is an informational inquiry weighing potential yield benefits of ONYC and RWA looping strategies against acknowledged smart contract and hack risks, without asserting a clear bullish or bearish stance on price or value.",2
+1vg3dob,btc,Paper to live bot trading,"[trades done](https://preview.redd.it/quhx2hkd8jhh1.png?width=1285&format=png&auto=webp&s=296f55765a197034128c591bf0771a378b9b4b52)
+
+[live dashboard](https://preview.redd.it/55vi82d18jhh1.png?width=1134&format=png&auto=webp&s=afec7b6c970539baa15a0846c04a0164547087ec)
+
+i am planning to deploy this in live with a small amount, is this much data enough to call it a profitable strategy",7,8/5/26 10:20,https://reddit.com/r/CryptoCurrency/comments/1vg3dob/paper_to_live_bot_trading/,https://www.reddit.com/r/CryptoCurrency/comments/1vg3dob/paper_to_live_bot_trading/,"Paper to live bot trading [trades done](https://preview.redd.it/quhx2hkd8jhh1.png?width=1285&format=png&auto=webp&s=296f55765a197034128c591bf0771a378b9b4b52)
+
+[live dashboard](https://preview.redd.it/55vi82d18jhh1.png?width=1134&format=png&auto=webp&s=afec7b6c970539baa15a0846c04a0164547087ec)
+
+i am planning to deploy this in live with a small amount, is this much data enough to call it a profitable strategy",neutral,0.902487814,0,positive,1,"The trader is showcasing a bot that has successfully transitioned from paper trading to live trades with a dashboard tracking results, which reflects growing confidence and innovation in trading strategies within the crypto space.",negative,-1,"A trader asking if a handful of paper trades is 'enough' to call a strategy profitable is a red flag suggesting overfitting or insufficient backtesting before risking real capital, which smells like the kind of overconfidence that precedes losses in this market.",neutral,0,"The post is a factual, non-promotional query about whether limited paper-trading bot results are sufficient to validate a strategy before going live, with no directional claims about the cryptocurrency itself.",2
+1vfqy6u,btc,Newbie here willing to donate to an open source dev. The main goal is to have the lowest transaction fee possible and the highest privacy possible,"He accepts these currencies 
+
+\* USDT TRC20
+
+\* USDT BEP20
+
+\* TRX
+
+\* BTC
+
+I don't know the first two and don't generally know the best way to get them. I'd like to avoid accounts and kyp. I'd like to share 50€ if the amount of money matters. Thanks for the help",16,8/4/26 23:45,https://reddit.com/r/CryptoCurrency/comments/1vfqy6u/newbie_here_willing_to_donate_to_an_open_source/,https://www.reddit.com/r/CryptoCurrency/comments/1vfqy6u/newbie_here_willing_to_donate_to_an_open_source/,"Newbie here willing to donate to an open source dev. The main goal is to have the lowest transaction fee possible and the highest privacy possible He accepts these currencies 
+
+\* USDT TRC20
+
+\* USDT BEP20
+
+\* TRX
+
+\* BTC
+
+I don't know the first two and don't generally know the best way to get them. I'd like to avoid accounts and kyp. I'd like to share 50€ if the amount of money matters. Thanks for the help",neutral,0.901342809,0,positive,1,"This shows genuine grassroots support for open source development and growing interest in low-fee, privacy-focused crypto payments like TRC20/BEP20 USDT and BTC, which reflects healthy ecosystem engagement and adoption.",negative,-1,"This is just a confused newbie asking basic questions about avoiding KYC to send a tiny 50€ donation, which signals low market participation and no real bullish substance, and the desire to dodge KYC hints at the shady, unregulated underbelly that still plagues crypto.",neutral,0,"The post is a factual request for guidance on donating small crypto amounts without KYC, containing no bullish or bearish claims about any currency's value or prospects.",2
+1vfkddo,btc,Is it a good time to buy BTC?,"I am new,  but I have finally decided to get involved. During Covid I was strongly offered to buy a bitcoin but I didn't have $20k to lose neither did I have any trust in it back then.  I'm thinking to give it a try and buy 1btc for a start. Any advice you could give to a newbie? Is it even a good time to buy it? ",150,8/4/26 19:28,https://reddit.com/r/CryptoCurrency/comments/1vfkddo/is_it_a_good_time_to_buy_btc/,https://www.reddit.com/r/CryptoCurrency/comments/1vfkddo/is_it_a_good_time_to_buy_btc/,"Is it a good time to buy BTC? I am new,  but I have finally decided to get involved. During Covid I was strongly offered to buy a bitcoin but I didn't have $20k to lose neither did I have any trust in it back then.  I'm thinking to give it a try and buy 1btc for a start. Any advice you could give to a newbie? Is it even a good time to buy it? ",neutral,0.888357699,0,positive,1,"A newcomer expressing genuine interest and willingness to invest in a full BTC shows growing adoption and confidence in the market, which is a bullish signal for the space.",negative,-1,"A newbie asking if now is a good time to buy, coupled with the admission they once dismissed BTC as money they'd 'lose,' signals classic late-stage retail FOMO that historically precedes tops and painful drawdowns.",neutral,0,"The post is a factual, unbiased inquiry from a newcomer asking whether it's a good time to buy BTC, without presenting hype or fear-driven claims.",2
+1vfgzo7,btc,"The Coldcard Hack: What Happened, What Actions to Take as a Coldcard Holder, and How U.S. Taxpayers May Claim Their Losses","Last week's Coldcard hack was a huge blow to the Bitcoin self-custody community.
+
+For years, self-custody has been viewed as the ""responsible"" and ""safe"" way to store Bitcoin, but this incident showed that even when you follow that advice, vulnerabilities can still exist, and in this case they allowed thieves to steal users' BTC. 
+
+
+
+**What Happened?**
+
+On Thursday (July 30, 2026), Coldcard customers began reporting that their BTC was being sent out of their wallet without their authorization. What first appeared to be a few isolated incidents grew to impact over 7,000 wallets.  Many of these wallets existed for years without previous issues or even transactions.
+
+These transfers were the result of a vulnerability affecting the seed phrases that are generated when creating a Coldcard hardware wallet. Coldcard has released several generations of its hardware wallet over the years, including the Mk2, Mk3, Mk4, Mk5, and Q models. Wallets created on Mk2 and Mk3 devices using firmware versions 4.0.1 through 4.1.9 were the most vulnerable, although there were some Mk4, Mk5, and Q wallets also impacted.
+
+When you create a new Bitcoin wallet, the device is supposed to generate a completely random seed phrase that only you know. Due to a bug in the firmware, some affected Coldcard devices didn't generate as much randomness as they should have. That made it possible for attackers (potentially with the help of AI) to mathematically figure out some users' private keys and steal the bitcoin stored in those wallets.  If Coldcard users selected the ""Roll Dice"" option and generated their seed phrase using their own dice rolls instead of relying solely on the device's random number generator, they were not affected by this vulnerability.
+
+
+
+**What Actions to Take if Your Coldcard Wallet Wasn’t Hacked**
+
+If your bitcoin is still in your Coldcard wallet, now is the time to act. Simply updating the firmware is **not enough** if your wallet was created using an affected firmware version.
+
+Here are the recommended steps:
+
+1. **Determine whether your wallet is affected**.
+   * Mk2/Mk3: Firmware versions 4.0.1 through 4.1.9
+   * Mk4/Mk5: Any wallet created before version 5.6.0 (Standard) or 6.6.0X (Edge)
+   * Q: Any wallet created before version 1.5.0Q (Standard) or 6.6.0QX (Edge)
+2. **Install the latest firmware**. Update your Coldcard device to the latest firmware available for your model before generating a new wallet.
+3. **Generate a brand new wallet.** After updating, create a new seed phrase. Do not continue using your existing seed if it was generated on an affected firmware version.
+4. **Verify the new wallet.** Write down the new seed phrase, verify the wallet fingerprint and receive address, and confirm your backup is accurate.
+5. **Move your bitcoin.** Once you've confirmed everything is working properly, transfer your BTC to the new wallet.
+
+ 
+
+**What to Do if Your Coldcard Wallet Was Hacked**
+
+Bitcoin transactions are irreversible, and once the assets have been transferred to another wallet, recovery is extremely unlikely unless law enforcement identifies and seizes the stolen funds.
+
+That said, there are still a few steps you should take:
+
+1.      **Document everything.** Save your wallet addresses, transaction IDs, firmware version, and any other information related to the theft.
+
+2.      **File a report with the FBI's Internet Crime Complaint Center (IC3).** While recovery is uncommon, reporting helps investigators identify larger patterns and may assist future enforcement actions. This report can be filed online in just a few minutes at [https://www.ic3.gov/](https://www.ic3.gov/)
+
+3.      **Monitor your stolen funds.** Blockchain explorers can help you track where your bitcoin moves, which may become useful if exchanges freeze or identify the assets in the future.
+
+4.      **Consult a tax professional.** Depending on your circumstances, you may be eligible to claim a theft loss deduction on your U.S. tax return.
+
+ 
+
+**U.S. Tax Implications**
+
+If you lost cryptocurrency due to a scam, hack, or theft, you may be able to qualify for an ordinary tax deduction under IRC Section 165(c)(2). The following qualifications generally must be met to claim the loss:
+
+1.      **The loss must qualify as “theft” under the applicable state law.** This means it includes a criminal act such as fraud, swindling, false pretenses, etc.  The taxpayer must show the property was illegally taken and there was criminal intent.
+
+2.      **The loss must arise from a profit-motivated transaction.**  The taxpayer purchased BTC and stored it in their cold wallet with the intent of making a profit.
+
+3.      **The loss must be claimed in the tax year in which it was discovered, with no reasonable prospect of recovery at the end of that tax year.**  
+
+\#3 is the challenge with this hack, as the assets were stolen in 2026, but there is a chance that law enforcement may be able to recover the assets or that CoinKite may be found responsible and required to pay it’s customers. We will need to see how this situation evolves to determine whether there really is no reasonable prospect of recovery by the end of 2026.
+
+Theft losses are reported on Section B of Form 4684, Casualties and Theft Losses, to the extent of the taxpayer’s COST BASIS.  The cost basis part is important, as I often have to remind clients that even though the value of their crypto was much higher when it was stolen, they only get a deduction to the extent of their cost basis (price they paid).
+
+From Form 4684, the resulting ordinary loss flows to Schedule A where itemized deductions are reported.  It adds to the same deduction bucket where you report mortgage interest expenses, state taxes, etc.
+
+Your total itemized deductions on Schedule A flow to your Form 1040 and reduce your taxable income.
+
+To the extent the loss created is so big that you have a taxable loss for the tax year, the loss would be carried over and could be used to offset 80% of income in future tax years (*IRC 172 limitations*).
+
+Note that many CPAs are hesitant to report a cryptocurrency theft loss. I believe this is largely due to confusion related to personal theft losses being nondeductible (per Tax Cuts and Jobs Act) or potentially just a lack of experience surrounding a substantial tax position. If your CPA is not comfortable taking the position, get a second opinion and consider speaking with a crypto-specialized CPA.
+
+**Conclusion**
+
+The Coldcard incident is a reminder that even the most trusted security tools can have vulnerabilities. While self-custody remains one of the best ways to protect your Bitcoin, no solution is completely risk-free. If you own a Coldcard wallet, take a few minutes to determine whether you're affected and migrate your funds if necessary. If you were one of the unfortunate victims, make sure to document everything, report the theft, and speak with a qualified tax professional to determine whether you're entitled to a deduction. Although nothing can replace stolen bitcoin, the tax code may at least help soften the financial impact.
+
+ ",23,8/4/26 17:28,https://reddit.com/r/CryptoCurrency/comments/1vfgzo7/the_coldcard_hack_what_happened_what_actions_to/,https://www.reddit.com/r/CryptoCurrency/comments/1vfgzo7/the_coldcard_hack_what_happened_what_actions_to/,"The Coldcard Hack: What Happened, What Actions to Take as a Coldcard Holder, and How U.S. Taxpayers May Claim Their Losses Last week's Coldcard hack was a huge blow to the Bitcoin self-custody community.
+
+For years, self-custody has been viewed as the ""responsible"" and ""safe"" way to store Bitcoin, but this incident showed that even when you follow that advice, vulnerabilities can still exist, and in this case they allowed thieves to steal users' BTC. 
+
+
+
+**What Happened?**
+
+On Thursday (July 30, 2026), Coldcard customers began reporting that their BTC was being sent out of their wallet without their authorization. What first appeared to be a few isolated incidents grew to impact over 7,000 wallets.  Many of these wallets existed for years without previous issues or even transactions.
+
+These transfers were the result of a vulnerability affecting the seed phrases that are generated when creating a Coldcard hardware wallet. Coldcard has released several generations of its hardware wallet over the years, including the Mk2, Mk3, Mk4, Mk5, and Q models. Wallets created on Mk2 and Mk3 devices using firmware versions 4.0.1 through 4.1.9 were the most vulnerable, although there were some Mk4, Mk5, and Q wallets also impacted.
+
+When you create a new Bitcoin wallet, the device is supposed to generate a completely random seed phrase that only you know. Due to a bug in the firmware, some affected Coldcard devices didn't generate as much randomness as they should have. That made it possible for attackers (potentially with the help of AI) to mathematically figure out some users' private keys and steal the bitcoin stored in those wallets.  If Coldcard users selected the ""Roll Dice"" option and generated their seed phrase using their own dice rolls instead of relying solely on the device's random number generator, they were not affected by this vulnerability.
+
+
+
+**What Actions to Take if Your Coldcard Wallet Wasn’t Hacked**
+
+If your bitcoin is still in your Coldcard wallet, now is the time to act. Simply updating the firmware is **not enough** if your wallet was created using an affected firmware version.
+
+Here are the recommended steps:
+
+1. **Determine whether your wallet is affected**.
+   * Mk2/Mk3: Firmware versions 4.0.1 through 4.1.9
+   * Mk4/Mk5: Any wallet created before version 5.6.0 (Standard) or 6.6.0X (Edge)
+   * Q: Any wallet created before version 1.5.0Q (Standard) or 6.6.0QX (Edge)
+2. **Install the latest firmware**. Update your Coldcard device to the latest firmware available for your model before generating a new wallet.
+3. **Generate a brand new wallet.** After updating, create a new seed phrase. Do not continue using your existing seed if it was generated on an affected firmware version.
+4. **Verify the new wallet.** Write down the new seed phrase, verify the wallet fingerprint and receive address, and confirm your backup is accurate.
+5. **Move your bitcoin.** Once you've confirmed everything is working properly, transfer your BTC to the new wallet.
+
+ 
+
+**What to Do if Your Coldcard Wallet Was Hacked**
+
+Bitcoin transactions are irreversible, and once the assets have been transferred to another wallet, recovery is extremely unlikely unless law enforcement identifies and seizes the stolen funds.
+
+That said, there are still a few steps you should take:
+
+1.      **Document everything.** Save your wallet addresses, transaction IDs, firmware version, and any other information related to the theft.
+
+2.      **File a report with the FBI's Internet Crime Complaint Center (IC3).** While recovery is uncommon, reporting helps investigators identify larger patterns and may assist future enforcement actions. This report can be filed online in just a few minutes at [https://www.ic3.gov/](https://www.ic3.gov/)
+
+3.      **Monitor your stolen funds.** Blockchain explorers can help you track where your bitcoin moves, which may become useful if exchanges freeze or identify the assets in the future.
+
+4.      **Consult a tax professional.** Depending on your circumstances, you may be eligible to claim a theft loss deduction on your U.S. tax return.
+
+ 
+
+**U.S. Tax Implications**
+
+If you lost cryptocurrency due to a scam, hack, or theft, you may be able to qualify for an ordinary tax deduction under IRC Section 165(c)(2). The following qualifications generally must be met to claim the loss:
+
+1.      **The loss must qualify as “theft” under the applicable state law.** This means it includes a criminal act such as fraud, swindling, false pretenses, etc.  The taxpayer must show the property was illegally taken and there was criminal intent.
+
+2.      **The loss must arise from a profit-motivated transaction.**  The taxpayer purchased BTC and stored it in their cold wallet with the intent of making a profit.
+
+3.      **The loss must be claimed in the tax year in which it was discovered, with no reasonable prospect of recovery at the end of that tax year.**  
+
+\#3 is the challenge with this hack, as the assets were stolen in 2026, but there is a chance that law enforcement may be able to recover the assets or that CoinKite may be found responsible and required to pay it’s customers. We will need to see how this situation evolves to determine whether there really is no reasonable prospect of recovery by the end of 2026.
+
+Theft losses are reported on Section B of Form 4684, Casualties and Theft Losses, to the extent of the taxpayer’s COST BASIS.  The cost basis part is important, as I often have to remind clients that even though the value of their crypto was much higher when it was stolen, they only get a deduction to the extent of their cost basis (price they paid).
+
+From Form 4684, the resulting ordinary loss flows to Schedule A where itemized deductions are reported.  It adds to the same deduction bucket where you report mortgage interest expenses, state taxes, etc.
+
+Your total itemized deductions on Schedule A flow to your Form 1040 and reduce your taxable income.
+
+To the extent the loss created is so big that you have a taxable loss for the tax year, the loss would be carried over and could be used to offset 80% of income in future tax years (*IRC 172 limitations*).
+
+Note that many CPAs are hesitant to report a cryptocurrency theft loss. I believe this is largely due to confusion related to personal theft losses being nondeductible (per Tax Cuts and Jobs Act) or potentially just a lack of experience surrounding a substantial tax position. If your CPA is not comfortable taking the position, get a second opinion and consider speaking with a crypto-specialized CPA.
+
+**Conclusion**
+
+The Coldcard incident is a reminder that even the most trusted security tools can have vulnerabilities. While self-custody remains one of the best ways to protect your Bitcoin, no solution is completely risk-free. If you own a Coldcard wallet, take a few minutes to determine whether you're affected and migrate your funds if necessary. If you were one of the unfortunate victims, make sure to document everything, report the theft, and speak with a qualified tax professional to determine whether you're entitled to a deduction. Although nothing can replace stolen bitcoin, the tax code may at least help soften the financial impact.
+
+ ",neutral,0.568340242,0,neutral,0,"While the hack itself is bad news for affected users, the post also highlights that self-custody best practices (like dice-roll seed generation) protected many users and provides actionable recovery/tax guidance, so it's more informational than purely bearish for Bitcoin's overall prospects.",negative,-1,"This exposes a critical flaw undermining the supposed safety of self-custody hardware wallets, proving that even 'secure' cold storage is riddled with hidden risks that can lead to catastrophic, irreversible losses.",negative,-1,"The post details a factual security vulnerability that led to significant theft of user funds from Coldcard hardware wallets, which is inherently negative news for the security reputation of that self-custody solution.",1
+1vf68mz,btc,do all crypto currencies/sites send a payment verification on your card and ask you to verify the amount?,"so ive never done crypto but im looking for a more secure way to pay for things online. i tried btc on moonpay, but i dont currently have a way to verify the amount they send cause the card i have currently for the time being is linked to my moms bank account and shes not the biggest fan of crypto so i need to be able to do this without that type of verification since i have no way to log into the account and verify the amount that was sent. 
+
+just seems like a weird way to verify since when ever i input any card in anywhere, that is never a type of verification thats ever been done. ",6,8/4/26 10:14,https://reddit.com/r/CryptoCurrency/comments/1vf68mz/do_all_crypto_currenciessites_send_a_payment/,https://www.reddit.com/r/CryptoCurrency/comments/1vf68mz/do_all_crypto_currenciessites_send_a_payment/,"do all crypto currencies/sites send a payment verification on your card and ask you to verify the amount? so ive never done crypto but im looking for a more secure way to pay for things online. i tried btc on moonpay, but i dont currently have a way to verify the amount they send cause the card i have currently for the time being is linked to my moms bank account and shes not the biggest fan of crypto so i need to be able to do this without that type of verification since i have no way to log into the account and verify the amount that was sent. 
+
+just seems like a weird way to verify since when ever i input any card in anywhere, that is never a type of verification thats ever been done. ",neutral,0.920244038,0,neutral,0,"This is just a user asking a practical question about card verification processes for buying crypto, with no bullish or bearish market commentary involved.",negative,-1,"This highlights the ongoing friction, confusing verification hurdles, and reliance on shady middlemen like MoonPay that plague crypto onboarding, reinforcing my view that the space is still clunky and risk-laden for newcomers.",neutral,0,"The post is a factual, non-evaluative question about payment verification processes for buying crypto, containing no positive or negative sentiment toward the cryptocurrency itself.",1
+1veys9x,btc,Lost $36k in Crypto Scam on Fake Ledger Site,"Well didn't think I would be posting something like this but here I am. I've been a holder of BTC/ETH for years, got a Ledger Wallet a while ago and it's been sitting in my drawer. I decided I wanted to transfer some out so I got my Nano X out, entered my pin, and connected to my phone. Before I could transfer I had to do a mandatory firmware update, and had to connect to my desktop. It's been a while and recently got a new laptop so I forgot it was a dedicated app. 
+
+Without really thinking I google Ledger Live and clicked on the first link, it looked like the real site and it said I needed to update my firmware which I did. I then clicked on the next step and forgot the only crypto rule. It was a screen to enter my 24 word phrase and I did.
+
+It took a me a few minutes to notice my mess up and saw my funds gone. Was pretty stunned and upset with myself. Filed with the IC3 but realize there is a 0% chance of getting it back but figured I share here for awareness even if it was completely obvious and also don't know what else to do. Still processing this
+
+[https://etherscan.io/tx/0x5ea336c13ab5880b4beaea0a0c8e70ad54504556fa83b5bf0667e120b006d722](https://etherscan.io/tx/0x5ea336c13ab5880b4beaea0a0c8e70ad54504556fa83b5bf0667e120b006d722)
+
+[https://blockstream.info/tx/49e4c41520d1eab9ba908b9cfa215d0c0c5bd15077bcb60c3a16a40130766a2f](https://blockstream.info/tx/49e4c41520d1eab9ba908b9cfa215d0c0c5bd15077bcb60c3a16a40130766a2f)
+
+",136,8/4/26 3:21,https://reddit.com/r/CryptoCurrency/comments/1veys9x/lost_36k_in_crypto_scam_on_fake_ledger_site/,https://www.reddit.com/r/CryptoCurrency/comments/1veys9x/lost_36k_in_crypto_scam_on_fake_ledger_site/,"Lost $36k in Crypto Scam on Fake Ledger Site Well didn't think I would be posting something like this but here I am. I've been a holder of BTC/ETH for years, got a Ledger Wallet a while ago and it's been sitting in my drawer. I decided I wanted to transfer some out so I got my Nano X out, entered my pin, and connected to my phone. Before I could transfer I had to do a mandatory firmware update, and had to connect to my desktop. It's been a while and recently got a new laptop so I forgot it was a dedicated app. 
+
+Without really thinking I google Ledger Live and clicked on the first link, it looked like the real site and it said I needed to update my firmware which I did. I then clicked on the next step and forgot the only crypto rule. It was a screen to enter my 24 word phrase and I did.
+
+It took a me a few minutes to notice my mess up and saw my funds gone. Was pretty stunned and upset with myself. Filed with the IC3 but realize there is a 0% chance of getting it back but figured I share here for awareness even if it was completely obvious and also don't know what else to do. Still processing this
+
+[https://etherscan.io/tx/0x5ea336c13ab5880b4beaea0a0c8e70ad54504556fa83b5bf0667e120b006d722](https://etherscan.io/tx/0x5ea336c13ab5880b4beaea0a0c8e70ad54504556fa83b5bf0667e120b006d722)
+
+[https://blockstream.info/tx/49e4c41520d1eab9ba908b9cfa215d0c0c5bd15077bcb60c3a16a40130766a2f](https://blockstream.info/tx/49e4c41520d1eab9ba908b9cfa215d0c0c5bd15077bcb60c3a16a40130766a2f)
+
+",neutral,0.890593588,0,negative,-1,"This is a clear-cut case of a user losing $36k to a phishing scam, which is unambiguously bad news for the individual and highlights security risks in the space, so even an optimistic outlook can't spin this positively.",negative,-1,"This story underscores the persistent phishing and security risks that plague crypto self-custody, reinforcing my bearish view that the ecosystem remains dangerously exposed to scams with no recourse for victims.",neutral,0,This post describes an individual phishing scam incident and personal loss with no bearing on the fundamentals or market outlook of BTC/ETH themselves.,1
+1veof4l,btc,"Rare physical Bitcoin with unredeemed crypto sells for $91,500 at auction","A physical Bitcoin containing 1 BTC sold for $91,500 at a Heritage Auctions event on July 26.
+
+Physical Bitcoins are collectible coins with a private key hidden under a hologram sticker on the back. If you peel off the hologram, you can access the cryptocurrency—but doing so destroys the coin's value as a collectible.
+
+Only 8,352 of these brass coins were ever made, making them rare.
+
+The same auction also sold an unredeemed 0.5 Bitcoin coin from 2016 for $34,160. Only 900 of those were produced.
+
+**Source:** Heritage Auctions",57,8/3/26 20:07,https://reddit.com/r/CryptoCurrency/comments/1veof4l/rare_physical_bitcoin_with_unredeemed_crypto/,https://www.nj.com/news/2026/08/rare-unredeemed-physical-bitcoin-commands-91500-at-auction.html?utm_medium=social&utm_source=redditsocial&utm_campaign=redditor,"Rare physical Bitcoin with unredeemed crypto sells for $91,500 at auction A physical Bitcoin containing 1 BTC sold for $91,500 at a Heritage Auctions event on July 26.
+
+Physical Bitcoins are collectible coins with a private key hidden under a hologram sticker on the back. If you peel off the hologram, you can access the cryptocurrency—but doing so destroys the coin's value as a collectible.
+
+Only 8,352 of these brass coins were ever made, making them rare.
+
+The same auction also sold an unredeemed 0.5 Bitcoin coin from 2016 for $34,160. Only 900 of those were produced.
+
+**Source:** Heritage Auctions",neutral,0.918603063,0,positive,1,Strong demand and premium prices for collectible physical Bitcoins signal robust enthusiasm and confidence in Bitcoin's long-term value among collectors and investors alike.,neutral,0,"This is just a niche collectibles auction story with no real bearing on actual market fundamentals or adoption, and if anything it highlights how a chunk of BTC supply gets locked away in speculative memorabilia rather than productive use, which isn't exactly bullish.",neutral,0,This is a factual report about a collectible physical Bitcoin auction sale with no implications for broader market price or adoption trends.,1
+1vefj22,btc,Nobody fully eliminates custody risk,"As I'm sure you've heard: a firmware bug traced to a March 2021 Coldcard build routed part of seed generation through a software RNG instead of the device's hardware one. The seeds came out with far less entropy than advertised: enough that private keys could be reconstructed offline, without ever touching the device. Roughly 1,367 BTC ( approx $89m) drained from over 4,000 addresses in waves starting the 30th of July.
+
+  
+Nobody fully eliminates custody risk, because of what happened, I imagine people are looking to move from self custody to other alternatives:
+
+* **Regulated wrapper (IBIT, ETHA)** \- you hold a claim on a trust, not coins. No seed, no firmware. Also no on-chain use, market hours only, \~0.25%/yr taken out of the BTC backing each share, and a position fully visible to your broker and tax authority. Fails via custodian or issuer risk.
+* **Private Bank custody** \- held alongside the rest of your wealth, with the reporting and estate planning that comes with it. Fails via institution risk and, mostly, access: getting onboarded is the hard part, many Swiss private banks do not offer crypto custody, recently some have added this feature.
+* **Self-custody** \- you're the counterparty, and ""you"" includes a firmware supply chain you can't audit. Coldcard is one of the more paranoid vendors in the space and still shipped a bad entropy path for five years. Fails via firmware/supply chain, key loss, inheritance, coercion, your own error.
+
+Are you guys going to move from self custody? If so which of these alternatives would you choose?
+
+  
+Check Coinkite's official website for affected models and firmware. General information, not investment, legal, or tax advice.",3,8/3/26 14:47,https://reddit.com/r/CryptoCurrency/comments/1vefj22/nobody_fully_eliminates_custody_risk/,https://www.reddit.com/r/CryptoCurrency/comments/1vefj22/nobody_fully_eliminates_custody_risk/,"Nobody fully eliminates custody risk As I'm sure you've heard: a firmware bug traced to a March 2021 Coldcard build routed part of seed generation through a software RNG instead of the device's hardware one. The seeds came out with far less entropy than advertised: enough that private keys could be reconstructed offline, without ever touching the device. Roughly 1,367 BTC ( approx $89m) drained from over 4,000 addresses in waves starting the 30th of July.
+
+  
+Nobody fully eliminates custody risk, because of what happened, I imagine people are looking to move from self custody to other alternatives:
+
+* **Regulated wrapper (IBIT, ETHA)** \- you hold a claim on a trust, not coins. No seed, no firmware. Also no on-chain use, market hours only, \~0.25%/yr taken out of the BTC backing each share, and a position fully visible to your broker and tax authority. Fails via custodian or issuer risk.
+* **Private Bank custody** \- held alongside the rest of your wealth, with the reporting and estate planning that comes with it. Fails via institution risk and, mostly, access: getting onboarded is the hard part, many Swiss private banks do not offer crypto custody, recently some have added this feature.
+* **Self-custody** \- you're the counterparty, and ""you"" includes a firmware supply chain you can't audit. Coldcard is one of the more paranoid vendors in the space and still shipped a bad entropy path for five years. Fails via firmware/supply chain, key loss, inheritance, coercion, your own error.
+
+Are you guys going to move from self custody? If so which of these alternatives would you choose?
+
+  
+Check Coinkite's official website for affected models and firmware. General information, not investment, legal, or tax advice.",neutral,0.812677801,0,negative,-1,"This describes a serious real-world security failure that drained $89m from users, which is unambiguously bad news for self-custody hardware wallets regardless of any bullish spin on the broader market.",negative,-1,"The post details a severe five-year-long firmware flaw that let attackers drain $89m in BTC from thousands of 'secure' self-custody wallets, exposing how even the most paranoid hardware vendors and every custody alternative (ETFs, banks, self-custody) carry serious unavoidable risk.",negative,-1,"The post details a critical firmware vulnerability that led to an $89 million BTC theft from thousands of self-custody wallets, highlighting significant security risks in hardware wallet supply chains.",0
+1vee6te,btc,"Michael Saylor's Strategy sells another 1,638 BTC for $105 million, reducing total holdings to 842,138 BTC",,128,8/3/26 13:57,https://reddit.com/r/CryptoCurrency/comments/1vee6te/michael_saylors_strategy_sells_another_1638_btc/,https://www.theblock.co/post/410414/michael-saylors-strategy-sells-another-1638-btc-for-105-million-reducing-total-holdings-to-842138-btc,"Michael Saylor's Strategy sells another 1,638 BTC for $105 million, reducing total holdings to 842,138 BTC ",negative,0.967253208,-1,positive,1,"A minor trim of 1,638 BTC is negligible against Strategy's massive 842,138 BTC stockpile, and Saylor's continued conviction in accumulating Bitcoin at this scale signals strong long-term bullish confidence in the asset.",negative,-1,"Strategy offloading more BTC signals waning conviction or liquidity pressure, and even a large holder trimming its stack is a red flag for downstream demand.",neutral,0,"This is a factual report of a transaction size and resulting holdings without additional context indicating financial distress or strategic significance, so it is neither clearly bullish nor bearish.",2
+1ve5e0u,btc,ThorSwap froze my $200K swap BTC to ETH,"I swapped $200K worth of BTC to ETH on ThorSwap, and my funds were stuck for over two hours. The transaction was confirmed on-chain, but my ETH just would not arrive. Sat there refreshing the outbound queue like their FAQ says, and absolutely nothing moved for hours.  
+  
+Finally got my ETH released, but by then BTC and ETH had both moved against me. Ended up eating a 2.3% loss just from price changes during the wait. Thousands of dollars gone for absolutely no reason. Has anyone else dealt with this on a large swap? What are you using instead because I am never touching ThorSwap again  
+  
+——————  
+  
+**\[Update\]**: Thanks for infos, it seems like it's a real common issue but no one seems to talk about it, I tried [https://switcher.finance?r=home](https://switcher.finance?r=home) as recommended and this time got 1:1, learnt my mistake, it even seems like Thorchain uses other APIs adding a fee on it on their swaps, it's not their own liquidity most of the time.",95,8/3/26 6:25,https://reddit.com/r/CryptoCurrency/comments/1ve5e0u/thorswap_froze_my_200k_swap_btc_to_eth/,https://www.reddit.com/r/CryptoCurrency/comments/1ve5e0u/thorswap_froze_my_200k_swap_btc_to_eth/,"ThorSwap froze my $200K swap BTC to ETH I swapped $200K worth of BTC to ETH on ThorSwap, and my funds were stuck for over two hours. The transaction was confirmed on-chain, but my ETH just would not arrive. Sat there refreshing the outbound queue like their FAQ says, and absolutely nothing moved for hours.  
+  
+Finally got my ETH released, but by then BTC and ETH had both moved against me. Ended up eating a 2.3% loss just from price changes during the wait. Thousands of dollars gone for absolutely no reason. Has anyone else dealt with this on a large swap? What are you using instead because I am never touching ThorSwap again  
+  
+——————  
+  
+**\[Update\]**: Thanks for infos, it seems like it's a real common issue but no one seems to talk about it, I tried [https://switcher.finance?r=home](https://switcher.finance?r=home) as recommended and this time got 1:1, learnt my mistake, it even seems like Thorchain uses other APIs adding a fee on it on their swaps, it's not their own liquidity most of the time.",negative,0.932527065,-1,negative,-1,"Despite my bullish outlook, this post clearly describes a costly technical failure and hidden fees on ThorSwap that cost the user real money, which is legitimately bad news for that platform rather than something to spin positively.",negative,-1,"This story exposes serious liquidity and execution risks in DeFi swap protocols like ThorSwap, reinforcing the classic red flag that decentralized platforms can lock up large funds and cause real financial losses due to hidden fees and poor liquidity sourcing.",negative,-1,"The post describes a factual account of a large swap being delayed for hours on ThorSwap, resulting in a real monetary loss due to slippage, which reflects poorly on the platform's reliability.",0
+1vdomgj,btc,Bitcoin Quantum Threat: The Race To Quantum-Proof Crypto,"**Is the race toward quantum-safe crypto already underway?**
+
+Some key takeaways:
+
+* Galaxy Digital estimates roughly **7 million BTC**, worth about **$470 billion**, are held in addresses with exposed public keys.
+* Researchers continue to reduce estimates for the quantum resources required to attack today's public-key cryptography.
+* Ethereum Foundation researcher Justin Drake estimates a **10% probability by 2032** that a quantum computer could derive a Bitcoin private key from an exposed public key.
+* Bitcoin developers are debating how a post-quantum migration should work, highlighting that the challenge is now being taken seriously.
+
+The article also highlights several approaches being explored across the industry. Besides migration proposals for existing blockchains, it mentions projects already built around **post-quantum cryptography**, including **Quantum Resistant Ledger (QRL)**, **Algorand** and **BTQ**, alongside newer companies developing quantum-safe solutions.
+
+To me, the most interesting takeaway is that **quantum-safe crypto** is no longer a niche topic. It is becoming an increasingly important part of the conversation around the future of blockchain security.
+
+If quantum computing continues to advance on its current trajectory, networks that already use **standardized post-quantum cryptography**, or have a credible path to adopting it, could have a significant long-term advantage.
+
+We're witnessing the early stages of one of the biggest security transitions in computing history.",40,8/2/26 17:52,https://reddit.com/r/CryptoCurrency/comments/1vdomgj/bitcoin_quantum_threat_the_race_to_quantumproof/,https://www.forbes.com/sites/boazsobrado/2026/08/02/that-is-the-end-of-bitcoin-the-quantum-race-for-470-billion/,"Bitcoin Quantum Threat: The Race To Quantum-Proof Crypto **Is the race toward quantum-safe crypto already underway?**
+
+Some key takeaways:
+
+* Galaxy Digital estimates roughly **7 million BTC**, worth about **$470 billion**, are held in addresses with exposed public keys.
+* Researchers continue to reduce estimates for the quantum resources required to attack today's public-key cryptography.
+* Ethereum Foundation researcher Justin Drake estimates a **10% probability by 2032** that a quantum computer could derive a Bitcoin private key from an exposed public key.
+* Bitcoin developers are debating how a post-quantum migration should work, highlighting that the challenge is now being taken seriously.
+
+The article also highlights several approaches being explored across the industry. Besides migration proposals for existing blockchains, it mentions projects already built around **post-quantum cryptography**, including **Quantum Resistant Ledger (QRL)**, **Algorand** and **BTQ**, alongside newer companies developing quantum-safe solutions.
+
+To me, the most interesting takeaway is that **quantum-safe crypto** is no longer a niche topic. It is becoming an increasingly important part of the conversation around the future of blockchain security.
+
+If quantum computing continues to advance on its current trajectory, networks that already use **standardized post-quantum cryptography**, or have a credible path to adopting it, could have a significant long-term advantage.
+
+We're witnessing the early stages of one of the biggest security transitions in computing history.",neutral,0.48126176,0,positive,1,"While the quantum threat sounds alarming, the post actually highlights that the industry is proactively tackling the challenge, with developers debating migration plans and projects like QRL, Algorand, and BTQ already building quantum-resistant solutions, positioning early movers for a major long-term advantage.",negative,-1,"With $470 billion in BTC sitting in quantum-vulnerable addresses and researchers steadily lowering the bar for a feasible attack, this reads like a slow-motion existential risk to Bitcoin that the ecosystem is only belatedly scrambling to address, which is hardly a bullish setup.",neutral,0,"The post factually summarizes quantum computing risks to Bitcoin and outlines industry responses without directional hype or fear-mongering, focusing instead on informative analysis of the emerging post-quantum cryptography landscape.",2
+1vd586t,btc,BTC Maxis in a nutshell,,30,8/2/26 1:59,https://reddit.com/r/CryptoCurrency/comments/1vd586t/btc_maxis_in_a_nutshell/,https://www.youtube.com/watch?v=ywVHF6Lltac,BTC Maxis in a nutshell ,neutral,0.666728556,0,neutral,0,"Without more context, this looks like a lighthearted meme poking fun at Bitcoin maximalists' mindset rather than actual market news, but it still shows the passionate community engagement that keeps BTC's narrative strong.",negative,-1,"A post mocking BTC maximalists likely highlights the toxicity and echo-chamber mentality within the community, underscoring the irrational, cult-like behavior that often blinds holders to genuine risks in the market.",neutral,0,"The post appears to be a meme or joke targeting BTC maximalists without presenting factual information about the cryptocurrency itself, so it lacks substantive content to classify as positive or negative.",1
+1vcv8uj,btc,Is Ledger Trezor and Tangem safe?,"This ColdCard news has got me shook. Thankfully I don’t use ColdCard but seeing the amount of people who lost their BTC unexpectedly has made me question if this can happen to other cold wallets. 
+
+Is Trezor Ledger and Tangem even safe or is there someone out there sitting waiting for the perfect time to repeat this attack again. ",100,8/1/26 18:45,https://reddit.com/r/CryptoCurrency/comments/1vcv8uj/is_ledger_trezor_and_tangem_safe/,https://www.reddit.com/r/CryptoCurrency/comments/1vcv8uj/is_ledger_trezor_and_tangem_safe/,"Is Ledger Trezor and Tangem safe? This ColdCard news has got me shook. Thankfully I don’t use ColdCard but seeing the amount of people who lost their BTC unexpectedly has made me question if this can happen to other cold wallets. 
+
+Is Trezor Ledger and Tangem even safe or is there someone out there sitting waiting for the perfect time to repeat this attack again. ",neutral,0.677465677,0,neutral,0,"While the ColdCard exploit is concerning, this post is really just raising questions about the security of other cold wallets rather than reporting new bad news for Ledger, Trezor, or Tangem, so it's more a cautious inquiry than a bearish signal for the broader market.",negative,-1,"This post highlights a security scare with ColdCard wallets and raises legitimate doubts about whether other 'cold' wallets like Ledger, Trezor, and Tangem could be similarly compromised, underscoring the ever-present custody and security risks in crypto that bears like myself always warn about.",negative,-1,"The post expresses concern and distrust about the security of cold wallets following a reported ColdCard exploit, highlighting fear of similar vulnerabilities in Ledger, Trezor, and Tangem without providing new factual reassurance.",1
+1vct7ya,btc,"Based on current prices, which token do you think is most likely to 3x next bull run? I asked chatgpt and it gave me this list, do you agree?","This ranking estimates the probability that each cryptocurrency will **briefly reach three times its current price during the next major bull market**. It does not estimate the probability of sustaining that valuation or represent an ideal portfolio allocation.
+
+Prices are approximate as of August 1, 2026.
+
+|Rank|Coin|Approx. current price|3x target|Historical comparison|Subjective probability|
+|:-|:-|:-|:-|:-|:-|
+|1|SOL|US$72.77|US$218|Below its US$293 all-time high|60–75%|
+|2|LINK|US$8.08|US$24.24|Less than half its US$52.70 all-time high|55–70%|
+|3|AAVE|US$91.73|US$275|Far below its US$662 all-time high|55–70%|
+|4|XRP|US$1.06|US$3.18|Below its recent US$3.65 peak|45–60%|
+|5|ETH|US$1,867|US$5,601|Approximately 13% above its US$4,946 all-time high|45–60%|
+|6|DOGE|US$0.070|US$0.210|Well below its approximately US$0.48 previous-cycle peak|45–60%|
+|7|BTC|US$62,932|US$188,796|Approximately 50% above its US$126,080 all-time high|40–55%|
+|8|TAO|US$192.65|US$578|Below its US$758 all-time high|40–55%|
+|9|ONDO|US$0.385|US$1.16|Below its US$2.14 all-time high|35–50%|
+
+# Justifications
+
+# 1. Solana — SOL
+
+SOL presents the strongest combination of adoption, token utility, market size, and historical precedent.
+
+The US$218 target remains approximately 26% below its US$293 record. SOL is used for transaction fees, staking, and network security, giving the token a relatively direct connection to ecosystem activity.
+
+Solana also remains prominent in trading, stablecoins, payments, consumer applications, and speculative activity. Its principal risks are network competition, inflation, technical problems, and its significant dependence on retail speculation and memecoin activity.
+
+# 2. Chainlink — LINK
+
+LINK only needs to reach approximately US$24.24, still less than half its historical peak. Its circulating market capitalization would remain relatively modest even after tripling.
+
+Chainlink provides oracle data and cross-chain infrastructure to many different blockchain ecosystems, reducing its dependence on the success of one network. The official CCIP explorer shows support for more than 75 networks and 190 tokens.
+
+The weakness is token value capture. Increased use of Chainlink’s infrastructure does not necessarily generate proportional buying pressure for LINK. Approximately 750 million of the maximum one billion tokens are circulating, leaving some dilution risk.
+
+# 3. Aave — AAVE
+
+AAVE has one of the strongest mathematical setups. The token’s market capitalization is relatively small, while the Aave protocol remains one of the largest and most established decentralized lending platforms.
+
+The US$275 target remains far below the US$662 historical high. Moreover, approximately 15 million of the maximum 16 million tokens are already circulating, so dilution is limited compared with XRP, TAO, or ONDO.
+
+AAVE ranks below LINK because its success depends more heavily on a strong revival of decentralized finance. It also carries smart-contract, regulatory, governance, and token value-capture risks.
+
+# 4. XRP
+
+XRP’s US$3.18 target is below its recent US$3.65 peak from July 2025. Unlike ETH and BTC, XRP would not need to establish a new record to triple.
+
+However, its current market capitalization is already approximately US$66 billion. Tripling would imply a circulating valuation close to US$200 billion. Approximately 63 billion of the nearly 100 billion XRP supply are circulating, leaving meaningful future supply.
+
+The XRP Ledger is fast, inexpensive, and established, but adoption of Ripple, XRPL, stablecoins, or tokenized financial products does not automatically create proportional demand for XRP itself.
+
+XRP ranks above ETH for this specific objective because its 3x target remains below a recently achieved price. ETH would need to establish a new record.
+
+# 5. Ethereum — ETH
+
+Ethereum remains the safest and most established altcoin, but ETH’s historical price performance has repeatedly disappointed.
+
+A 3x increase would take ETH to approximately US$5,601, about 13% above its historical high. This is certainly possible during a strong bull market, but it requires Ethereum to overcome the resistance zone around US$4,800–US$5,000 and establish a meaningful new record.
+
+Ethereum benefits from staking, fee payments, DeFi, stablecoins, tokenization, institutional access, and fee burning. However, moving activity to Layer 2 networks may reduce fees and token burning on the main network. Ecosystem growth therefore does not always result in proportional ETH appreciation.
+
+ETH would rank above XRP for durability and risk-adjusted quality, but slightly below XRP for the isolated objective of touching 3x.
+
+# 6. Dogecoin — DOGE
+
+DOGE only needs to reach approximately US$0.21. This remains well below its previous-cycle high near US$0.48 and far below the 2021 record of US$0.7316.
+
+That makes tripling mathematically plausible during a strong memecoin season. However, the thesis depends heavily on retail attention, social-media momentum, Elon Musk, and general speculative enthusiasm.
+
+Dogecoin also has an uncapped supply with continuous issuance. X Money has not introduced meaningful cryptocurrency integration, while competition from newer memecoins has grown considerably.
+
+DOGE could reach US$0.21 quickly during a speculative rally and lose much of that appreciation equally quickly.
+
+# 7. Bitcoin — BTC
+
+Bitcoin is the strongest cryptocurrency in terms of liquidity, institutional access, decentralization, survival probability, and scarcity. Nevertheless, it is considerably harder for an asset of its size to triple.
+
+The target near US$189,000 would be approximately 50% above the latest US$126,080 record and would imply a market capitalization close to US$3.8 trillion.
+
+ETFs, corporate holdings, the fixed 21 million supply, and the expected 2028 halving support the long-term thesis. However, achieving 3x would require an enormous amount of sustained global demand.
+
+BTC ranks seventh only for the probability of tripling. It would rank first for deploying a large amount of capital with the lowest relative cryptocurrency risk.
+
+# 8. Bittensor — TAO
+
+TAO’s US$578 target remains below its US$758 record. Its relatively small circulating market capitalization means that renewed enthusiasm for decentralized artificial intelligence could produce a rapid appreciation.
+
+The primary problems are dilution and uncertainty about sustainable demand. Approximately 9.6 million of the maximum 21 million TAO are circulating, meaning that future emissions could absorb part of the demand.
+
+TAO offers substantial upside, but much of its valuation continues to depend on the AI narrative rather than clearly demonstrated economic demand for decentralized AI services.
+
+# 9. Ondo — ONDO
+
+ONDO’s US$1.16 target remains well below its US$2.14 historical peak. The real-world asset and tokenization narrative could become extremely important during the next bull market.
+
+Its last position is mainly due to tokenomics. Only approximately 4.9 billion of the total 10 billion tokens are circulating, creating considerable dilution risk.
+
+Growth in Ondo’s tokenized financial products also does not automatically translate into proportional value capture by the ONDO governance token. ONDO could triple, but its outcome depends heavily on narrative momentum, future unlocks, and the token’s economic role.
+
+# Final interpretation
+
+For the isolated goal of briefly reaching 3x:
+
+* **Best overall candidate:** SOL.
+* **Best infrastructure asymmetry:** LINK.
+* **Best established DeFi asymmetry:** AAVE.
+* **Best recent-price precedent:** XRP.
+* **Safest altcoin, but with disappointing price history:** ETH.
+* **Most dependent on retail attention:** DOGE.
+* **Safest cryptocurrency, but hardest to triple because of its size:** BTC.
+* **High-risk AI speculation:** TAO.
+* **High-risk tokenization speculation:** ONDO.
+
+  
+That was the ChatGPT list. I don't really believe bitcoin will reach $180.000+ next cycle. I also have doubts about ETH, but then again I'm horrible in predicting this stuff. What are your predictions?",12,8/1/26 17:25,https://reddit.com/r/CryptoCurrency/comments/1vct7ya/based_on_current_prices_which_token_do_you_think/,https://www.reddit.com/r/CryptoCurrency/comments/1vct7ya/based_on_current_prices_which_token_do_you_think/,"Based on current prices, which token do you think is most likely to 3x next bull run? I asked chatgpt and it gave me this list, do you agree? This ranking estimates the probability that each cryptocurrency will **briefly reach three times its current price during the next major bull market**. It does not estimate the probability of sustaining that valuation or represent an ideal portfolio allocation.
+
+Prices are approximate as of August 1, 2026.
+
+|Rank|Coin|Approx. current price|3x target|Historical comparison|Subjective probability|
+|:-|:-|:-|:-|:-|:-|
+|1|SOL|US$72.77|US$218|Below its US$293 all-time high|60–75%|
+|2|LINK|US$8.08|US$24.24|Less than half its US$52.70 all-time high|55–70%|
+|3|AAVE|US$91.73|US$275|Far below its US$662 all-time high|55–70%|
+|4|XRP|US$1.06|US$3.18|Below its recent US$3.65 peak|45–60%|
+|5|ETH|US$1,867|US$5,601|Approximately 13% above its US$4,946 all-time high|45–60%|
+|6|DOGE|US$0.070|US$0.210|Well below its approximately US$0.48 previous-cycle peak|45–60%|
+|7|BTC|US$62,932|US$188,796|Approximately 50% above its US$126,080 all-time high|40–55%|
+|8|TAO|US$192.65|US$578|Below its US$758 all-time high|40–55%|
+|9|ONDO|US$0.385|US$1.16|Below its US$2.14 all-time high|35–50%|
+
+# Justifications
+
+# 1. Solana — SOL
+
+SOL presents the strongest combination of adoption, token utility, market size, and historical precedent.
+
+The US$218 target remains approximately 26% below its US$293 record. SOL is used for transaction fees, staking, and network security, giving the token a relatively direct connection to ecosystem activity.
+
+Solana also remains prominent in trading, stablecoins, payments, consumer applications, and speculative activity. Its principal risks are network competition, inflation, technical problems, and its significant dependence on retail speculation and memecoin activity.
+
+# 2. Chainlink — LINK
+
+LINK only needs to reach approximately US$24.24, still less than half its historical peak. Its circulating market capitalization would remain relatively modest even after tripling.
+
+Chainlink provides oracle data and cross-chain infrastructure to many different blockchain ecosystems, reducing its dependence on the success of one network. The official CCIP explorer shows support for more than 75 networks and 190 tokens.
+
+The weakness is token value capture. Increased use of Chainlink’s infrastructure does not necessarily generate proportional buying pressure for LINK. Approximately 750 million of the maximum one billion tokens are circulating, leaving some dilution risk.
+
+# 3. Aave — AAVE
+
+AAVE has one of the strongest mathematical setups. The token’s market capitalization is relatively small, while the Aave protocol remains one of the largest and most established decentralized lending platforms.
+
+The US$275 target remains far below the US$662 historical high. Moreover, approximately 15 million of the maximum 16 million tokens are already circulating, so dilution is limited compared with XRP, TAO, or ONDO.
+
+AAVE ranks below LINK because its success depends more heavily on a strong revival of decentralized finance. It also carries smart-contract, regulatory, governance, and token value-capture risks.
+
+# 4. XRP
+
+XRP’s US$3.18 target is below its recent US$3.65 peak from July 2025. Unlike ETH and BTC, XRP would not need to establish a new record to triple.
+
+However, its current market capitalization is already approximately US$66 billion. Tripling would imply a circulating valuation close to US$200 billion. Approximately 63 billion of the nearly 100 billion XRP supply are circulating, leaving meaningful future supply.
+
+The XRP Ledger is fast, inexpensive, and established, but adoption of Ripple, XRPL, stablecoins, or tokenized financial products does not automatically create proportional demand for XRP itself.
+
+XRP ranks above ETH for this specific objective because its 3x target remains below a recently achieved price. ETH would need to establish a new record.
+
+# 5. Ethereum — ETH
+
+Ethereum remains the safest and most established altcoin, but ETH’s historical price performance has repeatedly disappointed.
+
+A 3x increase would take ETH to approximately US$5,601, about 13% above its historical high. This is certainly possible during a strong bull market, but it requires Ethereum to overcome the resistance zone around US$4,800–US$5,000 and establish a meaningful new record.
+
+Ethereum benefits from staking, fee payments, DeFi, stablecoins, tokenization, institutional access, and fee burning. However, moving activity to Layer 2 networks may reduce fees and token burning on the main network. Ecosystem growth therefore does not always result in proportional ETH appreciation.
+
+ETH would rank above XRP for durability and risk-adjusted quality, but slightly below XRP for the isolated objective of touching 3x.
+
+# 6. Dogecoin — DOGE
+
+DOGE only needs to reach approximately US$0.21. This remains well below its previous-cycle high near US$0.48 and far below the 2021 record of US$0.7316.
+
+That makes tripling mathematically plausible during a strong memecoin season. However, the thesis depends heavily on retail attention, social-media momentum, Elon Musk, and general speculative enthusiasm.
+
+Dogecoin also has an uncapped supply with continuous issuance. X Money has not introduced meaningful cryptocurrency integration, while competition from newer memecoins has grown considerably.
+
+DOGE could reach US$0.21 quickly during a speculative rally and lose much of that appreciation equally quickly.
+
+# 7. Bitcoin — BTC
+
+Bitcoin is the strongest cryptocurrency in terms of liquidity, institutional access, decentralization, survival probability, and scarcity. Nevertheless, it is considerably harder for an asset of its size to triple.
+
+The target near US$189,000 would be approximately 50% above the latest US$126,080 record and would imply a market capitalization close to US$3.8 trillion.
+
+ETFs, corporate holdings, the fixed 21 million supply, and the expected 2028 halving support the long-term thesis. However, achieving 3x would require an enormous amount of sustained global demand.
+
+BTC ranks seventh only for the probability of tripling. It would rank first for deploying a large amount of capital with the lowest relative cryptocurrency risk.
+
+# 8. Bittensor — TAO
+
+TAO’s US$578 target remains below its US$758 record. Its relatively small circulating market capitalization means that renewed enthusiasm for decentralized artificial intelligence could produce a rapid appreciation.
+
+The primary problems are dilution and uncertainty about sustainable demand. Approximately 9.6 million of the maximum 21 million TAO are circulating, meaning that future emissions could absorb part of the demand.
+
+TAO offers substantial upside, but much of its valuation continues to depend on the AI narrative rather than clearly demonstrated economic demand for decentralized AI services.
+
+# 9. Ondo — ONDO
+
+ONDO’s US$1.16 target remains well below its US$2.14 historical peak. The real-world asset and tokenization narrative could become extremely important during the next bull market.
+
+Its last position is mainly due to tokenomics. Only approximately 4.9 billion of the total 10 billion tokens are circulating, creating considerable dilution risk.
+
+Growth in Ondo’s tokenized financial products also does not automatically translate into proportional value capture by the ONDO governance token. ONDO could triple, but its outcome depends heavily on narrative momentum, future unlocks, and the token’s economic role.
+
+# Final interpretation
+
+For the isolated goal of briefly reaching 3x:
+
+* **Best overall candidate:** SOL.
+* **Best infrastructure asymmetry:** LINK.
+* **Best established DeFi asymmetry:** AAVE.
+* **Best recent-price precedent:** XRP.
+* **Safest altcoin, but with disappointing price history:** ETH.
+* **Most dependent on retail attention:** DOGE.
+* **Safest cryptocurrency, but hardest to triple because of its size:** BTC.
+* **High-risk AI speculation:** TAO.
+* **High-risk tokenization speculation:** ONDO.
+
+  
+That was the ChatGPT list. I don't really believe bitcoin will reach $180.000+ next cycle. I also have doubts about ETH, but then again I'm horrible in predicting this stuff. What are your predictions?",neutral,0.941525817,0,positive,1,"The post enthusiastically lays out multiple coins with solid odds (40-75%) of tripling next bull run, well below their prior ATHs, which paints an optimistic, upside-heavy setup for the market.",negative,-1,"This is just speculative ChatGPT-generated price target fantasy with wide 'subjective probability' guesses and no real fundamentals backing 3x claims, which smells like classic bull-run copium that ignores downside risks like BTC needing a 50% move above ATH to even justify the thesis.",neutral,0,"The post is a factual, data-driven comparison of historical price targets and probability estimates for multiple tokens without promotional or alarmist language, reflecting an analytical rather than bullish or bearish tone.",2

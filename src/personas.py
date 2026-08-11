@@ -4,9 +4,19 @@ from typing import Any, Literal
 import pandas as pd
 from pydantic import BaseModel
 
+from src.config import Settings
 from src.sentiment import SENTIMENT_MAP
 
 MODEL = "claude-sonnet-5"
+
+
+def get_anthropic_client(settings: Settings) -> Any | None:
+    if not settings.anthropic_api_key:
+        return None
+
+    import anthropic
+
+    return anthropic.AsyncAnthropic(api_key=settings.anthropic_api_key)
 
 PERSONAS = {
     "bullish": (
