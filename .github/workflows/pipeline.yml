@@ -16,7 +16,7 @@ jobs:
           python-version: "3.13"
       - run: pip install -r requirement.txt
       - name: Hourly (FinBERT only)
-        if: github.event.schedule == '7 * * * *'
+        if: github.event.schedule == '7 * * * *' || github.event_name == 'workflow_dispatch'
         run: python -m scr.cli --coin bitcoin --limit 100 --save-to-s3
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
