@@ -3,13 +3,15 @@ import pandas as pd
 from src.config import TIMEZONE
 
 
-def aggregate_hourly_sentiment(reddit_df: pd.DataFrame, tz: str = TIMEZONE) -> pd.DataFrame:
-    reddit_df = reddit_df.copy()
+def _add_hour_column(df: pd.DataFrame, tz: str = TIMEZONE) -> pd.DataFrame:
+    df = df.copy()
+    df["created_at"] = pd.to_datetime(df["created_at"], utc=True).dt.tz_convert(tz)
+    df["hour"] = df["created_at"].dt.floor("h")
+    return df
 
-    reddit_df["created_at"] = (
-        pd.to_datetime(reddit_df["created_at"], utc=True).dt.tz_convert(tz)
-    )
-    reddit_df["hour"] = reddit_df["created_at"].dt.floor("h")
+
+def aggregate_hourly_sentiment(reddit_df: pd.DataFrame, tz: str = TIMEZONE) -> pd.DataFrame:
+    reddit_df = _add_hour_column(reddit_df, tz)
     reddit_df["hour_display"] = reddit_df["hour"].dt.strftime("%Y-%m-%d %I:%M %p")
 
     hourly_sentiment = (
@@ -23,6 +25,20 @@ def aggregate_hourly_sentiment(reddit_df: pd.DataFrame, tz: str = TIMEZONE) -> p
     )
 
     return hourly_sentiment
+
+
+def aggregate_hourly_personas(
+    reddit_df: pd.DataFrame, persona_keys, tz: str = TIMEZONE
+) -> pd.DataFrame:
+    reddit_df = _add_hour_column(reddit_df, tz)
+
+    agg_kwargs = {
+        f"{persona}_avg_score": (f"{persona}_score", "mean") for persona in persona_keys
+    }
+    agg_kwargs["persona_divergence_avg"] = ("persona_divergence", "mean")
+    agg_kwargs["mentions"] = ("post_id", "count")
+
+    return reddit_df.groupby("hour").agg(**agg_kwargs).reset_index()
 
 
 def merge_market_and_sentiment(

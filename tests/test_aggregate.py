@@ -1,6 +1,10 @@
 import pandas as pd
 
-from src.aggregate import aggregate_hourly_sentiment, merge_market_and_sentiment
+from src.aggregate import (
+    aggregate_hourly_personas,
+    aggregate_hourly_sentiment,
+    merge_market_and_sentiment,
+)
 
 
 def test_aggregate_hourly_sentiment_groups_by_hour():
@@ -51,3 +55,30 @@ def test_merge_market_and_sentiment_fills_missing_hours_with_zero():
     missing_row = combined.loc[combined["hour"] == pd.Timestamp("2024-01-01 13:00:00", tz="UTC")]
     assert missing_row["average_sentiment"].iloc[0] == 0.0
     assert missing_row["mentions"].iloc[0] == 0.0
+
+
+def test_aggregate_hourly_personas_averages_per_hour():
+    reddit_df = pd.DataFrame(
+        {
+            "post_id": ["a", "b", "c"],
+            "created_at": pd.to_datetime(
+                [
+                    "2024-01-01 12:05:00+00:00",
+                    "2024-01-01 12:45:00+00:00",
+                    "2024-01-01 13:10:00+00:00",
+                ]
+            ),
+            "bullish_score": [1, -1, 1],
+            "bearish_score": [-1, -1, -1],
+            "persona_divergence": [2, 0, 2],
+        }
+    )
+
+    hourly = aggregate_hourly_personas(reddit_df, ["bullish", "bearish"], tz="UTC")
+
+    assert len(hourly) == 2
+    first_hour = hourly.loc[hourly["hour"] == pd.Timestamp("2024-01-01 12:00:00", tz="UTC")]
+    assert first_hour["bullish_avg_score"].iloc[0] == 0.0
+    assert first_hour["bearish_avg_score"].iloc[0] == -1.0
+    assert first_hour["persona_divergence_avg"].iloc[0] == 1.0
+    assert first_hour["mentions"].iloc[0] == 2

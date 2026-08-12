@@ -3,6 +3,7 @@ import asyncio
 from datetime import datetime
 from pathlib import Path
 
+from src.backtest import evaluate_predictiveness
 from src.config import COIN_METADATA, get_settings
 from src.personas import get_anthropic_client
 from src.pipeline import run_pipeline
@@ -23,6 +24,17 @@ def parse_args() -> argparse.Namespace:
         "--use-personas",
         action="store_true",
         help="Score posts with bullish/bearish/neutral LLM personas (claude-sonnet-5, incurs API cost)",
+    )
+    parser.add_argument(
+        "--backtest",
+        action="store_true",
+        help="Test whether persona sentiment predicts the forward price move (requires --use-personas)",
+    )
+    parser.add_argument(
+        "--horizon",
+        type=int,
+        default=1,
+        help="Forward return window in hours for --backtest",
     )
     return parser.parse_args()
 
@@ -59,6 +71,18 @@ async def main() -> None:
         persona_path = DATA_DIR / f"{args.coin}_personas_{timestamp}.csv"
         reddit_data.to_csv(persona_path, index=False)
         print(f"Wrote {persona_path}")
+
+    if args.backtest:
+        if not args.use_personas:
+            print("Skipping --backtest: requires --use-personas.")
+        else:
+            results = evaluate_predictiveness(combined, reddit_data, horizon=args.horizon)
+            print(
+                f"\nPredictiveness vs next {args.horizon}h return "
+                "(small sample -- signal check, not a validated result):"
+            )
+            print(results.to_string(index=False))
+
 
 if __name__ == "__main__":
     asyncio.run(main())
