@@ -17,7 +17,7 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Hourly (FinBERT only)
         if: github.event.schedule == '7 * * * *' || github.event_name == 'workflow_dispatch'
-        run: python -m scr.cli --coin bitcoin --limit 100 --save-to-s3
+        run: python -m src.cli --coin bitcoin --limit 100 --save-to-s3
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
@@ -27,7 +27,7 @@ jobs:
           S3_BUCKET_NAME: ${{ secrets.S3_BUCKET_NAME }}
       - name: Daily (with personas)
         if: github.event.schedule == '22 6 * * *'
-        run: python -m scr.cli --coin bitcoin --limit 25 --use-personas --backtest --save-to-s3
+        run: python -m src.cli --coin bitcoin --limit 25 --use-personas --backtest --save-to-s3
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
