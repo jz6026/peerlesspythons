@@ -14,7 +14,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.13"
-      - run: pip install -r requirement.txt
+      - run: pip install -r requirements.txt
       - name: Hourly (FinBERT only)
         if: github.event.schedule == '7 * * * *' || github.event_name == 'workflow_dispatch'
         run: python -m scr.cli --coin bitcoin --limit 100 --save-to-s3
