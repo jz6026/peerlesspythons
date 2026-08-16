@@ -3,8 +3,6 @@ numpy
 matplotlib
 plotly
 requests
-beautifulsoup4
-selenium
 transformers
 torch
 scikit-learn
@@ -12,6 +10,5 @@ asyncpraw
 boto3
 anthropic
 python-dotenv
-flask
 pytest
 pytest-asyncio
