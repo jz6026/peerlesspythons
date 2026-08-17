@@ -23,17 +23,17 @@ COIN_METADATA = {
     "bitcoin": {
         "symbol": "BTC",
         "binance_pair": "BTCUSDT",
-        "search_terms": ["bitcoin", "btc"],
+        "search_terms": ["bitcoin", "btc", "$btc", "sats", "satoshis"],
     },
     "ethereum": {
         "symbol": "ETH",
         "binance_pair": "ETHUSDT",
-        "search_terms": ["ethereum", "eth"],
+        "search_terms": ["ethereum", "eth", "$eth", "ether", "gwei"],
     },
     "solana": {
         "symbol": "SOL",
         "binance_pair": "SOLUSDT",
-        "search_terms": ["solana", "sol"],
+        "search_terms": ["solana", "sol", "$sol", "sol szn"],
     },
 }
 

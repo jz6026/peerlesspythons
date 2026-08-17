@@ -15,7 +15,13 @@ DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Run the Reddit/market sentiment pipeline for a coin.")
-    parser.add_argument("--coin", choices=sorted(COIN_METADATA), default="bitcoin")
+    parser.add_argument(
+        "--coin",
+        nargs="+",
+        choices=sorted(COIN_METADATA),
+        default=["bitcoin"],
+        help="One or more coins to run, e.g. --coin bitcoin ethereum solana",
+    )
     parser.add_argument("--subreddit", default="CryptoCurrency")
     parser.add_argument("--limit", type=int, default=100, help="Reddit posts per search term")
     parser.add_argument("--market-limit", type=int, default=100, help="Binance candles to fetch")
@@ -46,42 +52,44 @@ async def main() -> None:
     s3_client = get_s3_client(settings)
     anthropic_client = get_anthropic_client(settings) if args.use_personas else None
 
-    async with create_reddit_client(settings) as reddit:
-        combined, reddit_data = await run_pipeline(
-            coin_key=args.coin,
-            settings=settings,
-            reddit=reddit,
-            subreddit_name=args.subreddit,
-            limit=args.limit,
-            market_limit=args.market_limit,
-            s3_client=s3_client,
-            use_personas=args.use_personas,
-            anthropic_client=anthropic_client,
-        )
-
     DATA_DIR.mkdir(exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    out_path = DATA_DIR / f"{args.coin}_{timestamp}.csv"
-    combined.to_csv(out_path, index=False)
 
-    print(f"Rows: {len(combined)}")
-    print(f"Wrote {out_path}")
-
-    if args.use_personas:
-        persona_path = DATA_DIR / f"{args.coin}_personas_{timestamp}.csv"
-        reddit_data.to_csv(persona_path, index=False)
-        print(f"Wrote {persona_path}")
-
-    if args.backtest:
-        if not args.use_personas:
-            print("Skipping --backtest: requires --use-personas.")
-        else:
-            results = evaluate_predictiveness(combined, reddit_data, horizon=args.horizon)
-            print(
-                f"\nPredictiveness vs next {args.horizon}h return "
-                "(small sample -- signal check, not a validated result):"
+    async with create_reddit_client(settings) as reddit:
+        for coin in args.coin:
+            combined, reddit_data = await run_pipeline(
+                coin_key=coin,
+                settings=settings,
+                reddit=reddit,
+                subreddit_name=args.subreddit,
+                limit=args.limit,
+                market_limit=args.market_limit,
+                s3_client=s3_client,
+                use_personas=args.use_personas,
+                anthropic_client=anthropic_client,
             )
-            print(results.to_string(index=False))
+
+            out_path = DATA_DIR / f"{coin}_{timestamp}.csv"
+            combined.to_csv(out_path, index=False)
+
+            print(f"[{coin}] Rows: {len(combined)}")
+            print(f"[{coin}] Wrote {out_path}")
+
+            if args.use_personas:
+                persona_path = DATA_DIR / f"{coin}_personas_{timestamp}.csv"
+                reddit_data.to_csv(persona_path, index=False)
+                print(f"[{coin}] Wrote {persona_path}")
+
+            if args.backtest:
+                if not args.use_personas:
+                    print(f"[{coin}] Skipping --backtest: requires --use-personas.")
+                else:
+                    results = evaluate_predictiveness(combined, reddit_data, horizon=args.horizon)
+                    print(
+                        f"\n[{coin}] Predictiveness vs next {args.horizon}h return "
+                        "(small sample -- signal check, not a validated result):"
+                    )
+                    print(results.to_string(index=False))
 
 
 if __name__ == "__main__":
