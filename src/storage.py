@@ -39,3 +39,37 @@ def upload_dataframe(s3_client: Any, bucket: str, coin_key: str, df: pd.DataFram
     s3_client.put_object(Bucket=bucket, Key=key, Body=buffer.getvalue())
 
     return key
+
+
+def load_history(s3_client: Any, bucket: str, coin_key: str) -> pd.DataFrame:
+    prefix = f"sentiment/{coin_key}/"
+
+    keys = []
+    continuation_token = None
+    while True:
+        kwargs = {"Bucket": bucket, "Prefix": prefix}
+        if continuation_token:
+            kwargs["ContinuationToken"] = continuation_token
+        response = s3_client.list_objects_v2(**kwargs)
+        keys.extend(obj["Key"] for obj in response.get("Contents", []))
+        if not response.get("IsTruncated"):
+            break
+        continuation_token = response.get("NextContinuationToken")
+
+    if not keys:
+        return pd.DataFrame()
+
+    frames = []
+    for key in keys:
+        body = s3_client.get_object(Bucket=bucket, Key=key)["Body"].read()
+        frames.append(pd.read_csv(io.BytesIO(body)))
+
+    history = pd.concat(frames, ignore_index=True)
+    history["hour"] = pd.to_datetime(history["hour"], utc=True)
+    history = (
+        history.sort_values("hour")
+        .drop_duplicates(subset="hour", keep="last")
+        .reset_index(drop=True)
+    )
+
+    return history

@@ -24,16 +24,19 @@ COIN_METADATA = {
         "symbol": "BTC",
         "binance_pair": "BTCUSDT",
         "search_terms": ["bitcoin", "btc", "$btc", "sats", "satoshis"],
+        "subreddits": ["CryptoCurrency", "Bitcoin"],
     },
     "ethereum": {
         "symbol": "ETH",
         "binance_pair": "ETHUSDT",
         "search_terms": ["ethereum", "eth", "$eth", "ether", "gwei"],
+        "subreddits": ["CryptoCurrency", "ethereum"],
     },
     "solana": {
         "symbol": "SOL",
         "binance_pair": "SOLUSDT",
         "search_terms": ["solana", "sol", "$sol", "sol szn"],
+        "subreddits": ["CryptoCurrency", "solana"],
     },
 }
 

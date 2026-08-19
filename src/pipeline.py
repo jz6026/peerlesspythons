@@ -18,7 +18,7 @@ async def run_pipeline(
     coin_key: str,
     settings: Settings,
     reddit: asyncpraw.Reddit,
-    subreddit_name: str = "CryptoCurrency",
+    subreddit_name: str | None = None,
     limit: int = 100,
     market_limit: int = 100,
     s3_client: Any | None = None,
@@ -33,12 +33,20 @@ async def run_pipeline(
         limit=market_limit,
     )
 
-    reddit_data = await fetch_reddit_posts(
-        reddit,
-        subreddit_name=subreddit_name,
-        search_terms=metadata["search_terms"],
-        limit=limit,
-    )
+    subreddit_names = [subreddit_name] if subreddit_name else metadata["subreddits"]
+
+    reddit_frames = [
+        await fetch_reddit_posts(
+            reddit,
+            subreddit_name=sub,
+            search_terms=metadata["search_terms"],
+            limit=limit,
+        )
+        for sub in subreddit_names
+    ]
+    reddit_data = pd.concat(reddit_frames, ignore_index=True)
+    if not reddit_data.empty:
+        reddit_data = reddit_data.drop_duplicates(subset="post_id").reset_index(drop=True)
 
     if reddit_data.empty:
         hourly_sentiment = pd.DataFrame(columns=EMPTY_HOURLY_SENTIMENT_COLUMNS)
