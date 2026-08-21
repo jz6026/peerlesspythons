@@ -11,6 +11,7 @@ from src.personas import get_anthropic_client
 from src.pipeline import run_pipeline
 from src.reddit_client import create_reddit_client
 from src.storage import get_s3_client, load_history
+from src.signals import flag_coordinated_timing, flag_sentiment_price_divergence, flag_volume_bursts
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
@@ -56,6 +57,11 @@ def parse_args() -> argparse.Namespace:
             "calls. Requires AWS_ACCESS_KEY_ID/AWS_SECRET_ACCESS_KEY/S3_BUCKET_NAME."
         ),
     )
+    parser.add_argument(
+        "--signals",
+        action="store_true",
+        help="Flag sentiment/price divergence, volume bursts, and coordinated post timing",
+    )
     return parser.parse_args()
 
 
@@ -87,6 +93,16 @@ async def main() -> None:
                 f"{hours_with_activity} with post activity):"
             )
             print(results.to_string(index=False))
+
+            if args.signals:
+                flagged = flag_volume_bursts(flag_sentiment_price_divergence(history))
+                n_divergence = int(flagged["sentiment_price_divergence"].sum())
+                n_bursts = int(flagged["volume_burst"].sum())
+                print(f"[{coin}] Signals: {n_divergence} divergence hours, {n_bursts} volume-burst hours")
+                preview = flagged[flagged["sentiment_price_divergence"] | flagged["volume_burst"]]
+                if not preview.empty:
+                    cols = ["hour", "close", "average_sentiment", "mentions", "sentiment_price_divergence", "volume_burst"]
+                    print(preview[cols].to_string(index=False))
         return
 
     settings.save_to_s3 = args.save_to_s3
@@ -131,6 +147,23 @@ async def main() -> None:
                         "(small sample -- signal check, not a validated result):"
                     )
                     print(results.to_string(index=False))
+
+            if args.signals:
+                flagged = flag_volume_bursts(flag_sentiment_price_divergence(combined))
+                n_divergence = int(flagged["sentiment_price_divergence"].sum())
+                n_bursts = int(flagged["volume_burst"].sum())
+                print(f"[{coin}] Signals: {n_divergence} divergence hours, {n_bursts} volume-burst hours")
+                preview = flagged[flagged["sentiment_price_divergence"] | flagged["volume_burst"]]
+                if not preview.empty:
+                    cols = ["hour", "close", "average_sentiment", "mentions", "sentiment_price_divergence", "volume_burst"]
+                    print(preview[cols].to_string(index=False))
+
+                clusters = flag_coordinated_timing(reddit_data)
+                if clusters.empty:
+                    print(f"[{coin}] No coordinated-timing clusters found.")
+                else:
+                    print(f"[{coin}] Coordinated-timing clusters:")
+                    print(clusters.to_string(index=False))
 
 
 if __name__ == "__main__":
