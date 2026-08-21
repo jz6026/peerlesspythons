@@ -1,3 +1,4 @@
+import pandas as pd
 def flag_sentiment_price_divergence(
     df: pd.DataFrame,
     trend_window: int = 6,

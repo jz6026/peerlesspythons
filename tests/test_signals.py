@@ -1,3 +1,5 @@
+import pandas as pd
+
 from src.signals import (
     flag_coordinated_timing,
     flag_sentiment_price_divergence,
